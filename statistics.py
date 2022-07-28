@@ -30,24 +30,121 @@ def show_card():
   subprocess.run(cmd, shell=True)
 
 def compute_histograms():
-  print("COMPUTING HISTOGRAM for PERSON vertex on firstName attribute")
+  # print("COMPUTING HISTOGRAM for PERSON vertex on firstName attribute")
   cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Person&attribute=firstName&buckets=10&compute=true\" | jq ."
   subprocess.run(cmd, shell=True)
 
-  print("COMPUTING HISTOGRAM for PERSON vertex on lastName attribute")
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Person&attribute=locationIP&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Person&attribute=browserUsed&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  # print("COMPUTING HISTOGRAM for PERSON vertex on lastName attribute")
   cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Person&attribute=lastName&buckets=10&compute=true\" | jq ."
   subprocess.run(cmd, shell=True)
 
-  print("COMPUTING HISTOGRAM for PERSON vertex on gender attribute")
+  # print("COMPUTING HISTOGRAM for PERSON vertex on gender attribute")
   cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Person&attribute=gender&buckets=2&compute=true\" | jq ."
   subprocess.run(cmd, shell=True)
 
-  print("COMPUTING HISTOGRAM for CONTINENT vertex on name attribute")
+  # print("COMPUTING HISTOGRAM for PERSON vertex on gender attribute")
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Person&attribute=creationDate&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Person&attribute=id&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Person&attribute=birthday&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  # print("COMPUTING HISTOGRAM for CONTINENT vertex on name attribute")
   cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Continent&attribute=name&buckets=2&compute=true\" | jq ."
   subprocess.run(cmd, shell=True)
 
-  print("COMPUTING HISTOGRAM for CONTINENT vertex on id attribute")
+
+  # print("COMPUTING HISTOGRAM for CONTINENT vertex on id attribute")
   cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Continent&attribute=id&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  # print("COMPUTING HISTOGRAM for CONTINENT vertex on id attribute")
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=TagClass&attribute=id&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  # print("COMPUTING HISTOGRAM for CONTINENT vertex on id attribute")
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=TagClass&attribute=name&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Comment&attribute=browserUsed&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Comment&attribute=length&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Comment&attribute=locationIP&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Comment&attribute=id&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Comment&attribute=creationDate&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Comment&attribute=content&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Company&attribute=name&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Company&attribute=id&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Post&attribute=browserUsed&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Post&attribute=locationIP&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Post&attribute=id&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Post&attribute=creationDate&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Post&attribute=content&buckets=10&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=University&attribute=id&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=University&attribute=name&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=City&attribute=id&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=City&attribute=name&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Country&attribute=id&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Country&attribute=name&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Tag&attribute=id&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Tag&attribute=name&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Forum&attribute=id&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Forum&attribute=title&buckets=2&compute=true\" | jq ."
+  subprocess.run(cmd, shell=True)
+
+  cmd = f"curl -s --user tigergraph:tigergraph -X POST \"http://localhost:14240/gsqlserver/gsql/stats/histogram?graph=ldbc_snb&vertex=Forum&attribute=creationDate&buckets=2&compute=true\" | jq ."
   subprocess.run(cmd, shell=True)
 
 if __name__ == "__main__":
