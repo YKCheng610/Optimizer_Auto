@@ -1,0 +1,5 @@
+create or replace query test8() for graph ldbc_snb syntax v2 {
+A = SELECT c1
+FROM University:u1 - (IS_LOCATED_IN>) - City:c1
+WHERE c1.name LIKE "%C%" AND u1.name LIKE "%D%" AND u1.id < c1.id;
+}

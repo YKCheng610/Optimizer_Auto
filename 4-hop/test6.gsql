@@ -1,0 +1,5 @@
+create or replace query test6() for graph ldbc_snb syntax v2 {
+A = SELECT p1
+FROM University:u1 - (<STUDY_AT) - Person:p1 - (WORK_AT>) - Company:com1 - (<WORK_AT) - Person:p2 - (STUDY_AT>) - University:u2
+WHERE p1.gender != "male" AND u1.name LIKE "%D%" AND u1.id < p1.id AND u1.id >= com1.id AND p1.birthday < p2.birthday AND u1.name == u2.name;
+}

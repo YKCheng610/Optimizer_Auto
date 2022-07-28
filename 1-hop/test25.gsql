@@ -1,0 +1,5 @@
+create or replace query test25() for graph ldbc_snb syntax v2 {
+A = SELECT f1
+FROM Forum:f1 - (<CONTAINER_OF_REVERSE) - Post:po1
+WHERE f1.id == 200 AND f1.title LIKE "%Album%" AND po1.length < 300;
+}

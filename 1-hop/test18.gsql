@@ -1,0 +1,5 @@
+create or replace query test18() for graph ldbc_snb syntax v2 {
+A = SELECT ta1
+FROM TagClass:ta2 - (<IS_SUBCLASS_OF) - TagClass:ta1
+WHERE ta2.id < 200 AND ta1.id >= ta2.id AND ta1.name LIKE "%S%";
+}

@@ -1,0 +1,5 @@
+create or replace query test48() for graph ldbc_snb syntax v2 {
+A = SELECT c1
+FROM Comment:c1 - (HAS_TAG>) - Tag:t1 - (<HAS_TAG) - Forum:f1
+WHERE t1.name LIKE "%D%" AND c1.browserUsed == "Safari" AND f1.creationDate > c1.creationDate;
+}

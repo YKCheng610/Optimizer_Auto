@@ -1,0 +1,5 @@
+create or replace query test37() for graph ldbc_snb syntax v2 {
+A = SELECT co1
+FROM Country:co1 - (<IS_LOCATED_IN) - Company:com1 - (<WORK_AT) - Person:p1 - (KNOWS) - Person:p2
+WHERE com1.id < co1.id and co1.name LIKE "%A%" AND p1.gender == "female" AND p1.birthday <= p2.birthday;
+}

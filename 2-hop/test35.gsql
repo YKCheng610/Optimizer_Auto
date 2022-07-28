@@ -1,0 +1,5 @@
+create or replace query test35() for graph ldbc_snb syntax v2 {
+A = SELECT f1
+FROM Forum:f1 - (HAS_TAG>) - Tag:t1 - (<HAS_INTEREST) - Person:p1
+WHERE f1.id < t1.id AND t1.name LIKE "%Ka%" AND p1.birthday <= f1.creationDate;
+}

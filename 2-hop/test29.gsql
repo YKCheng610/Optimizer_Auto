@@ -1,0 +1,5 @@
+create or replace query test29() for graph ldbc_snb syntax v2 {
+A = SELECT f1
+FROM Forum:f1 - (CONTAINER_OF>) - Post:po1 - (LIKES_REVERSE>) - Person:p1
+WHERE f1.id == 200 AND po1.browserUsed == "Notexist" AND po1.locationIP LIKE "%2%" AND p1.birthday > f1.creationDate;
+}

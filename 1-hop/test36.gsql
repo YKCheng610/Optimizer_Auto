@@ -1,0 +1,5 @@
+create or replace query test36() for graph ldbc_snb syntax v2 {
+A = SELECT f1
+FROM Forum:f1 - (<HAS_TAG_REVERSE) - Tag:t1
+WHERE f1.id < t1.id AND t1.name LIKE "%K%";
+}

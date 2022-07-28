@@ -1,0 +1,5 @@
+create or replace query test33() for graph ldbc_snb syntax v2 {
+A = SELECT f1
+FROM Forum:f1 - (<HAS_MODERATOR_REVERSE) - Person:p1 - (<HAS_MEMBER) - Forum:f2 - (HAS_MEMBER>) - Person:p2
+WHERE f1.id < 200 AND p1.browserUsed != "Safari" AND p1.locationIP LIKE "%13%" AND f1.title == f2.title AND p2.browserUsed == p1.browserUsed;
+}

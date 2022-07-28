@@ -1,0 +1,5 @@
+create or replace query test40() for graph ldbc_snb syntax v2 {
+A = SELECT co1
+FROM Country:co1 - (IS_LOCATED_IN_REVERSE>) - Company:com1 - (<WORK_AT) - Person:p1 - (LIKES>) - Comment:c1 
+WHERE com1.name LIKE "%C%" AND p1.browserUsed == "Firefox" AND p1.gender == "male" AND c1.length > 20;
+}

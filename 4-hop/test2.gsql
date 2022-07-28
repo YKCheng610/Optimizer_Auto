@@ -1,0 +1,5 @@
+create or replace query test2() for graph ldbc_snb syntax v2 {
+A = SELECT p1
+FROM Comment:m1 - (HAS_CREATOR>) - Person:p1 - (KNOWS) - Person:p2 - (LIKES>) - Post:po1 - (<REPLY_OF) - Comment:m2
+WHERE p1.gender != "male" AND m1.length < 300 AND p1.birthday > p2.birthday AND p1.id < p2.id AND po1.length < m1.length AND m2.creationDate > p2.birthday;
+}

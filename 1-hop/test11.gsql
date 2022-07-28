@@ -1,0 +1,5 @@
+create or replace query test11() for graph ldbc_snb syntax v2 {
+A = SELECT c1
+FROM Country:co1 - (IS_PART_OF_REVERSE>) - City:c1
+WHERE c1.name LIKE "%C%" AND co1.name LIKE "%D%";
+}

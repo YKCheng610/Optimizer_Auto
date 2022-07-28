@@ -1,0 +1,5 @@
+create or replace query test26() for graph ldbc_snb syntax v2 {
+A = SELECT f1
+FROM Forum:f1 - (<CONTAINER_OF_REVERSE) - Post:po1 - (REPLY_OF_REVERSE>) - Comment:c1 - (HAS_CREATOR>) - Person:p1 - (LIKES>) - Post:po2
+WHERE f1.id <= 200 AND f1.title LIKE "%Album%" AND po1.length < 300 AND po1.browserUsed == "Firefox" AND c1.length > 1000 AND p1.birthday > f1.creationDate AND po2.content == po1.content;
+}

@@ -1,0 +1,5 @@
+create or replace query test47() for graph ldbc_snb syntax v2 {
+A = SELECT c1
+FROM Comment:c1 - (HAS_TAG>) - Tag:t1 - (HAS_TYPE>) - TagClass:ta1 - (<HAS_TYPE) - Tag:t2
+WHERE c1.length <= 200 AND c1.browserUsed == "Safari" AND ta1.id < c1.id AND t1.id <= t2.id;
+}

@@ -1,0 +1,5 @@
+create or replace query test50() for graph ldbc_snb syntax v2 {
+A = SELECT c2
+FROM Comment:c1 - (HAS_TAG>) - Tag:t1 - (<HAS_TAG) - Comment:c2 - (REPLY_OF>) - Comment:c3
+WHERE t1.name LIKE "%E%" AND c1.length <= 200 AND c1.browserUsed == "Safari" AND t1.id < c1.id AND c2.length > c1.length and c3.browserUsed != c1.browserUsed;
+}

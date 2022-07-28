@@ -1,0 +1,5 @@
+create or replace query test30() for graph ldbc_snb syntax v2 {
+A = SELECT f1
+FROM Forum:f1 - (CONTAINER_OF>) - Post:po1 - (REPLY_OF_REVERSE>) - Comment:c1
+WHERE f1.id < 200 AND po1.browserUsed != "Notexist" AND po1.locationIP LIKE "%1%" AND c1.length > 500;
+}

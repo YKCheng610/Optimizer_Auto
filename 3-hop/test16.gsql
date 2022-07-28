@@ -1,0 +1,5 @@
+create or replace query test16() for graph ldbc_snb syntax v2 {
+A = SELECT t1
+FROM Tag:t1 - (HAS_TYPE>) - TagClass:ta1 - (<HAS_TYPE) - Tag:t2 - (<HAS_INTEREST) - Person:p1
+WHERE t1.id < 200 AND ta1.id >= t1.id AND ta1.name LIKE "%S%" AND t2.id > t1.id AND p1.gender == "male";
+}

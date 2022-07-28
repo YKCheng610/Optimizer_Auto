@@ -1,0 +1,5 @@
+create or replace query test3() for graph ldbc_snb syntax v2 {
+A = SELECT p1
+FROM Person:p1 - (<HAS_CREATOR) - Post:po1 - (<LIKES) - Person:p2
+WHERE p1.gender == "male" AND po1.length > 100 AND po1.content LIKE "%A%" and p1.birthday == p2.birthday;
+}

@@ -1,0 +1,13 @@
+create or replace query test26() for graph ldbc_snb syntax v2 {
+A = SELECT p1
+FROM Tag:t1 - (HAS_TAG_REVERSE>) - Comment:m1 - (HAS_CREATOR>) - Person:p1
+WHERE t1.id <= 1000 AND p1.gender == "male";
+
+B = SELECT p2
+FROM Person:p2 - (<HAS_MODERATOR) - Forum:f1
+WHERE p2.gender == "female" AND p2.id < 1000;
+
+C = SELECT u1
+FROM B:p2 - (STUDY_AT>) - University:u1 - (<STUDY_AT) - A:p1
+WHERE p1.locationIP LIKE "%214%";
+}

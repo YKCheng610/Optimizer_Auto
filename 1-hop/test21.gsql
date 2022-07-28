@@ -1,0 +1,5 @@
+create or replace query test21() for graph ldbc_snb syntax v2 {
+A = SELECT ta1
+FROM TagClass:ta2 - (<IS_SUBCLASS_OF_REVERSE) - TagClass:ta1
+WHERE ta2.id == 200 AND ta1.id <= ta2.id;
+}

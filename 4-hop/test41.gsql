@@ -1,0 +1,5 @@
+create or replace query test41() for graph ldbc_snb syntax v2 {
+A = SELECT co1
+FROM Country:co1 - (IS_PART_OF>) - Continent:con1 - (<IS_PART_OF) - Country:co2 - (<IS_LOCATED_IN) - Company:com1 - (<WORK_AT) - Person:p1
+WHERE con1.name LIKE "%A%" AND co2.id < co1.id AND com1.name LIKE "%Air%" AND p1.id < co1.id;
+}

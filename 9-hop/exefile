@@ -1,0 +1,26 @@
+gsql drop query all
+# install queries
+echo "Install the 9-hop queries"
+for i in {1..50}
+do
+    gsql -g ldbc_snb test$i.gsql
+done
+
+gsql install query -force all
+
+echo "Compute cardinality and histogram"
+python3 ../statistics.py -card -hist
+
+echo "Run the 9-hop queries with optimizer"
+for i in {1..50}
+do
+    echo "run query $i with optimizer" |& tee -a 9hop_query.txt 
+    (time gsql -g ldbc_snb "set cost_opt = true run query test$i()") |& tee -a 9hop_query.txt
+done
+
+echo "Run the 9-hop queries without optimizer"
+for i in {1..50}
+do
+    echo "run query $i without optimizer" |& tee -a 9hop_query.txt 
+    (time gsql -g ldbc_snb "set cost_opt = false run query test$i()") |& tee -a 9hop_query.txt
+done

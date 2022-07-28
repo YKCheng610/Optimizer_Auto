@@ -1,0 +1,5 @@
+create or replace query test17() for graph ldbc_snb syntax v2 {
+A = SELECT t1
+FROM Tag:t1 - (<HAS_TYPE_REVERSE) - TagClass:ta1
+WHERE t1.id < 200 AND ta1.id >= t1.id AND ta1.name LIKE "%S%";
+}

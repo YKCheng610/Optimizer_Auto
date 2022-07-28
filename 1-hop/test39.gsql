@@ -1,0 +1,5 @@
+create or replace query test39() for graph ldbc_snb syntax v2 {
+A = SELECT co1
+FROM Country:co1 - (<IS_LOCATED_IN) - Company:com1
+WHERE com1.name LIKE "%A%";
+}

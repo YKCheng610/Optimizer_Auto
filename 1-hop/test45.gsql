@@ -1,0 +1,5 @@
+create or replace query test45() for graph ldbc_snb syntax v2 {
+A = SELECT c1
+FROM Comment:c1 - (<REPLY_OF) - Comment:c2
+WHERE c1.length > 500 AND c1.length > c2.length AND c1.creationDate < c2.creationDate;
+}

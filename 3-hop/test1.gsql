@@ -1,0 +1,5 @@
+create or replace query test1() for graph ldbc_snb syntax v2 {
+A = SELECT t1
+FROM Tag:t1 - (HAS_TAG_REVERSE>) - Comment:m1 - (REPLY_OF>) - Comment:m2 - (REPLY_OF>) - Post:po1
+WHERE t1.id <= 1000 AND m1.length < 300 AND m1.length > m2.length AND m1.creationDate < m2.creationDate AND m2.length > po1.length;
+}

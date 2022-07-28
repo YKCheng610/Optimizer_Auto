@@ -1,0 +1,5 @@
+create or replace query test14() for graph ldbc_snb syntax v2 {
+A = SELECT f1
+FROM Tag:t1 - (HAS_TAG_REVERSE>) - Forum:f1 - (HAS_MEMBER>) - Person:p1 - (<HAS_MEMBER) - Forum:f2
+WHERE t1.id > 1000 AND f1.id < t1.id AND p1.gender == "female" AND f1.creationDate > f2.creationDate;
+}

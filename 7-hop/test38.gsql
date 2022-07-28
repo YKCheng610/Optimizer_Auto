@@ -1,0 +1,17 @@
+create or replace query test38() for graph ldbc_snb syntax v2 {
+A = SELECT p1
+FROM Tag:t1 - (<HAS_TAG) - Comment:m1 - (HAS_CREATOR>) - Person:p1
+WHERE t1.id > 100 AND p1.gender == "male";
+
+B = SELECT p2
+FROM Person:p2 - (<HAS_CREATOR) - Comment:m2
+WHERE p2.gender == "female" AND m2.length >= 20;
+
+C = SELECT u1
+FROM B:p2 - (STUDY_AT>) - University:u1 - (<STUDY_AT) - A:p1
+WHERE p2.birthday > p1.birthday;
+
+D = SELECT c1
+FROM C:u1 - (IS_LOCATED_IN>) - City:c1 - (IS_LOCATED_IN_REVERSE>) - B:p2
+WHERE u1.name LIKE "%B%" AND c1.id > 2000;
+}

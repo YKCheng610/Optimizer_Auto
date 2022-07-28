@@ -1,0 +1,5 @@
+create or replace query test5() for graph ldbc_snb syntax v2 {
+A = SELECT p1
+FROM Comment:m1 - (<LIKES) - Person:p1 - (STUDY_AT>) - University:u1
+WHERE p1.gender != "male" AND m1.length == 500 AND u1.name LIKE "%D%";
+}

@@ -1,0 +1,5 @@
+create or replace query test4() for graph ldbc_snb syntax v2 {
+A = SELECT p1
+FROM Person:p1 - (KNOWS) - Person:p2 - (KNOWS) - Person:p3 - (KNOWS) - Person:p4 - (LIKES>) - Comment:m1
+WHERE p1.gender != p2.gender AND p2.birthday > p1.birthday AND p3.id < p2.id AND p3.lastName LIKE "%A%" AND p4.browserUsed == p1.browserUsed AND m1.length < 200 AND m1.creationDate < p1.birthday;
+}

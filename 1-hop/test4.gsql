@@ -1,0 +1,5 @@
+create or replace query test4() for graph ldbc_snb syntax v2 {
+A = SELECT p1
+FROM Person:p1 - (KNOWS) - Person:p2
+WHERE p1.gender != p2.gender AND p2.birthday > p1.birthday;
+}

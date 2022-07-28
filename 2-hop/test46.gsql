@@ -1,0 +1,5 @@
+create or replace query test46() for graph ldbc_snb syntax v2 {
+A = SELECT c2
+FROM Comment:c1 - (REPLY_OF>) - Comment:c2 - (<REPLY_OF) - Comment:c3
+WHERE c1.length == 23 AND c1.browserUsed == c2.browserUsed AND c3.creationDate > c1.creationDate;
+}

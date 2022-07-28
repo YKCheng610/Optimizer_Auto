@@ -1,0 +1,5 @@
+create or replace query test23() for graph ldbc_snb syntax v2 {
+A = SELECT f1
+FROM Forum:f1 - (CONTAINER_OF>) - Post:po1 - (HAS_TAG>) - Tag:t1 - (<HAS_INTEREST) - Person:p1 - (KNOWS) - Person:p2
+WHERE f1.id == 200 AND f1.title LIKE "%Album%" AND t1.id < f1.id AND p1.birthday < f1.creationDate AND p1.firstName == p2.firstName; 
+}

@@ -1,0 +1,5 @@
+create or replace query test10() for graph ldbc_snb syntax v2 {
+A = SELECT c1
+FROM Country:co1 - (<IS_PART_OF) - City:c1 - (<IS_LOCATED_IN) - Person:p1 - (KNOWS) - Person:p2
+WHERE c1.name LIKE "%C%" AND co1.name LIKE "%D%" AND p1.gender == "female" AND p1.browserUsed != p2.browserUsed;
+}

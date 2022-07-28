@@ -1,0 +1,5 @@
+create or replace query test8() for graph ldbc_snb syntax v2 {
+A = SELECT c1
+FROM University:u1 - (IS_LOCATED_IN>) - City:c1 - (IS_PART_OF>) - Country:con1 - (IS_PART_OF>) - Continent:co1 - (<IS_PART_OF) - Country:con2
+WHERE c1.name LIKE "%C%" AND u1.name LIKE "%D%" AND u1.id < c1.id AND con1.name LIKE "%A%" AND co1.name == "Asia" AND con2.name LIKE "%C%";
+}

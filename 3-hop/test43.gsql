@@ -1,0 +1,5 @@
+create or replace query test43() for graph ldbc_snb syntax v2 {
+A = SELECT c1
+FROM Comment:c1 - (HAS_CREATOR>) - Person:p1 - (KNOWS) - Person:p2 - (LIKES>) - Comment:c2
+WHERE p1.lastName LIKE "%A%" AND c1.length < 300 AND p2.gender == p1.gender AND c1.content == c2.content;
+}

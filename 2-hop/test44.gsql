@@ -1,0 +1,5 @@
+create or replace query test44() for graph ldbc_snb syntax v2 {
+A = SELECT c1
+FROM Comment:c1 - (LIKES_REVERSE>) - Person:p1 - (KNOWS) - Person:p2
+WHERE c1.length > 500 AND p1.id <= c1.id AND p2.birthday > c1.creationDate;
+}

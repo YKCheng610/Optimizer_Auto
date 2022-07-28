@@ -1,0 +1,5 @@
+create or replace query test49() for graph ldbc_snb syntax v2 {
+A = SELECT c1
+FROM Comment:c1 - (HAS_TAG>) - Tag:t1 - (HAS_TAG_REVERSE>) - Comment:c2 - (<LIKES) - Person:p1
+WHERE t1.name LIKE "%D%" AND c1.length <= 200 AND c1.browserUsed == "Safari" AND c2.creationDate > c1.creationDate AND p1.browserUsed == c1.browserUsed;
+}
