@@ -40,15 +40,15 @@ do
         echo "Run the $i-hop queries with optimizer"
         for k in {1..50}
         do
-            echo "run query $k with optimizer" |& tee -a "$k"hop_query"$j".txt 
-            (time gsql -g ldbc_snb "set cost_opt = true run query test$i()") |& tee -a "$k"hop_query"$j".txt
+            echo "run query $k with optimizer" |& tee -a "$i"hop_query"$j".txt 
+            (time gsql -g ldbc_snb "set cost_opt = true run query test$i()") |& tee -a "$i"hop_query"$j".txt
         done
 
         echo "Run the $i-hop queries without optimizer"
         for k in {1..50}
         do
-            echo "run query $k without optimizer" |& tee -a "$k"hop_query"$j".txt 
-            (time gsql -g ldbc_snb "set cost_opt = false run query test$i()") |& tee -a "$k"hop_query"$j".txt
+            echo "run query $k without optimizer" |& tee -a "$i"hop_query"$j".txt 
+            (time gsql -g ldbc_snb "set cost_opt = false run query test$i()") |& tee -a "$i"hop_query"$j".txt
         done
         echo "Done $i-hop $j-iteration"
     done
