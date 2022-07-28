@@ -10,9 +10,9 @@ run query 1 with optimizer
   "results": []
 }
 
-real	0m21.332s
-user	0m1.421s
-sys	0m0.172s
+real	0m0.715s
+user	0m1.386s
+sys	0m0.144s
 run query 2 with optimizer
 {
   "error": false,
@@ -25,8 +25,8 @@ run query 2 with optimizer
   "results": []
 }
 
-real	0m20.038s
-user	0m1.391s
+real	0m0.688s
+user	0m1.411s
 sys	0m0.151s
 run query 3 with optimizer
 {
@@ -40,9 +40,9 @@ run query 3 with optimizer
   "results": []
 }
 
-real	0m20.215s
-user	0m1.390s
-sys	0m0.182s
+real	0m0.677s
+user	0m1.396s
+sys	0m0.142s
 run query 4 with optimizer
 {
   "error": false,
@@ -55,9 +55,9 @@ run query 4 with optimizer
   "results": []
 }
 
-real	0m19.931s
-user	0m1.380s
-sys	0m0.166s
+real	0m0.674s
+user	0m1.415s
+sys	0m0.167s
 run query 5 with optimizer
 {
   "error": false,
@@ -70,9 +70,9 @@ run query 5 with optimizer
   "results": []
 }
 
-real	0m20.199s
-user	0m1.395s
-sys	0m0.167s
+real	0m0.685s
+user	0m1.403s
+sys	0m0.158s
 run query 6 with optimizer
 {
   "error": false,
@@ -85,9 +85,9 @@ run query 6 with optimizer
   "results": []
 }
 
-real	0m19.943s
-user	0m1.413s
-sys	0m0.137s
+real	0m0.703s
+user	0m1.450s
+sys	0m0.152s
 run query 7 with optimizer
 {
   "error": false,
@@ -100,9 +100,9 @@ run query 7 with optimizer
   "results": []
 }
 
-real	0m19.716s
-user	0m1.379s
-sys	0m0.163s
+real	0m0.695s
+user	0m1.411s
+sys	0m0.173s
 run query 8 with optimizer
 {
   "error": false,
@@ -115,9 +115,9 @@ run query 8 with optimizer
   "results": []
 }
 
-real	0m20.306s
-user	0m1.408s
-sys	0m0.149s
+real	0m0.674s
+user	0m1.433s
+sys	0m0.138s
 run query 9 with optimizer
 {
   "error": false,
@@ -130,9 +130,9 @@ run query 9 with optimizer
   "results": []
 }
 
-real	0m19.844s
-user	0m1.404s
-sys	0m0.142s
+real	0m0.705s
+user	0m1.401s
+sys	0m0.157s
 run query 10 with optimizer
 {
   "error": false,
@@ -145,9 +145,9 @@ run query 10 with optimizer
   "results": []
 }
 
-real	0m20.002s
-user	0m1.397s
-sys	0m0.151s
+real	0m0.704s
+user	0m1.425s
+sys	0m0.155s
 run query 11 with optimizer
 {
   "error": false,
@@ -160,9 +160,9 @@ run query 11 with optimizer
   "results": []
 }
 
-real	0m20.758s
-user	0m1.436s
-sys	0m0.174s
+real	0m0.694s
+user	0m1.402s
+sys	0m0.168s
 run query 12 with optimizer
 {
   "error": false,
@@ -175,9 +175,9 @@ run query 12 with optimizer
   "results": []
 }
 
-real	0m20.234s
-user	0m1.392s
-sys	0m0.165s
+real	0m0.710s
+user	0m1.386s
+sys	0m0.155s
 run query 13 with optimizer
 {
   "error": false,
@@ -190,9 +190,9 @@ run query 13 with optimizer
   "results": []
 }
 
-real	0m20.074s
-user	0m1.398s
-sys	0m0.172s
+real	0m0.681s
+user	0m1.393s
+sys	0m0.152s
 run query 14 with optimizer
 {
   "error": false,
@@ -205,9 +205,9 @@ run query 14 with optimizer
   "results": []
 }
 
-real	0m20.565s
-user	0m1.401s
-sys	0m0.172s
+real	0m0.684s
+user	0m1.397s
+sys	0m0.157s
 run query 15 with optimizer
 {
   "error": false,
@@ -220,9 +220,9 @@ run query 15 with optimizer
   "results": []
 }
 
-real	0m20.998s
-user	0m1.386s
-sys	0m0.154s
+real	0m0.693s
+user	0m1.431s
+sys	0m0.121s
 run query 16 with optimizer
 {
   "error": false,
@@ -235,9 +235,9 @@ run query 16 with optimizer
   "results": []
 }
 
-real	0m19.984s
-user	0m1.395s
-sys	0m0.171s
+real	0m0.696s
+user	0m1.422s
+sys	0m0.145s
 run query 17 with optimizer
 {
   "error": false,
@@ -250,9 +250,9 @@ run query 17 with optimizer
   "results": []
 }
 
-real	0m20.343s
-user	0m1.397s
-sys	0m0.149s
+real	0m0.697s
+user	0m1.421s
+sys	0m0.147s
 run query 18 with optimizer
 {
   "error": false,
@@ -265,9 +265,9 @@ run query 18 with optimizer
   "results": []
 }
 
-real	0m20.077s
-user	0m1.400s
-sys	0m0.127s
+real	0m0.710s
+user	0m1.397s
+sys	0m0.174s
 run query 19 with optimizer
 {
   "error": false,
@@ -280,9 +280,9 @@ run query 19 with optimizer
   "results": []
 }
 
-real	0m20.680s
-user	0m1.384s
-sys	0m0.187s
+real	0m0.695s
+user	0m1.409s
+sys	0m0.147s
 run query 20 with optimizer
 {
   "error": false,
@@ -295,9 +295,9 @@ run query 20 with optimizer
   "results": []
 }
 
-real	0m20.325s
-user	0m1.407s
-sys	0m0.161s
+real	0m0.681s
+user	0m1.396s
+sys	0m0.150s
 run query 21 with optimizer
 {
   "error": false,
@@ -310,9 +310,9 @@ run query 21 with optimizer
   "results": []
 }
 
-real	0m22.980s
-user	0m1.403s
-sys	0m0.151s
+real	0m0.696s
+user	0m1.432s
+sys	0m0.162s
 run query 22 with optimizer
 {
   "error": false,
@@ -325,9 +325,9 @@ run query 22 with optimizer
   "results": []
 }
 
-real	0m19.996s
-user	0m1.402s
-sys	0m0.185s
+real	0m0.688s
+user	0m1.469s
+sys	0m0.155s
 run query 23 with optimizer
 {
   "error": false,
@@ -340,9 +340,9 @@ run query 23 with optimizer
   "results": []
 }
 
-real	0m21.384s
-user	0m1.392s
-sys	0m0.184s
+real	0m0.678s
+user	0m1.479s
+sys	0m0.153s
 run query 24 with optimizer
 {
   "error": false,
@@ -355,9 +355,9 @@ run query 24 with optimizer
   "results": []
 }
 
-real	0m20.544s
-user	0m1.399s
-sys	0m0.130s
+real	0m0.681s
+user	0m1.411s
+sys	0m0.142s
 run query 25 with optimizer
 {
   "error": false,
@@ -370,9 +370,9 @@ run query 25 with optimizer
   "results": []
 }
 
-real	0m19.896s
-user	0m1.378s
-sys	0m0.177s
+real	0m0.692s
+user	0m1.406s
+sys	0m0.151s
 run query 26 with optimizer
 {
   "error": false,
@@ -385,9 +385,9 @@ run query 26 with optimizer
   "results": []
 }
 
-real	0m19.952s
-user	0m1.392s
-sys	0m0.156s
+real	0m0.688s
+user	0m1.409s
+sys	0m0.136s
 run query 27 with optimizer
 {
   "error": false,
@@ -400,9 +400,9 @@ run query 27 with optimizer
   "results": []
 }
 
-real	0m20.699s
-user	0m1.393s
-sys	0m0.154s
+real	0m0.690s
+user	0m1.392s
+sys	0m0.161s
 run query 28 with optimizer
 {
   "error": false,
@@ -415,8 +415,8 @@ run query 28 with optimizer
   "results": []
 }
 
-real	0m19.645s
-user	0m1.348s
+real	0m0.685s
+user	0m1.367s
 sys	0m0.184s
 run query 29 with optimizer
 {
@@ -430,9 +430,9 @@ run query 29 with optimizer
   "results": []
 }
 
-real	0m20.920s
-user	0m1.406s
-sys	0m0.172s
+real	0m0.682s
+user	0m1.423s
+sys	0m0.123s
 run query 30 with optimizer
 {
   "error": false,
@@ -445,9 +445,9 @@ run query 30 with optimizer
   "results": []
 }
 
-real	0m20.430s
-user	0m1.390s
-sys	0m0.156s
+real	0m0.716s
+user	0m1.413s
+sys	0m0.163s
 run query 31 with optimizer
 {
   "error": false,
@@ -460,9 +460,9 @@ run query 31 with optimizer
   "results": []
 }
 
-real	0m20.400s
-user	0m1.388s
-sys	0m0.172s
+real	0m0.716s
+user	0m1.406s
+sys	0m0.155s
 run query 32 with optimizer
 {
   "error": false,
@@ -475,9 +475,9 @@ run query 32 with optimizer
   "results": []
 }
 
-real	0m20.092s
-user	0m1.345s
-sys	0m0.185s
+real	0m0.691s
+user	0m1.419s
+sys	0m0.161s
 run query 33 with optimizer
 {
   "error": false,
@@ -490,9 +490,9 @@ run query 33 with optimizer
   "results": []
 }
 
-real	0m19.851s
-user	0m1.417s
-sys	0m0.152s
+real	0m0.684s
+user	0m1.371s
+sys	0m0.162s
 run query 34 with optimizer
 {
   "error": false,
@@ -505,9 +505,9 @@ run query 34 with optimizer
   "results": []
 }
 
-real	0m20.259s
-user	0m1.416s
-sys	0m0.157s
+real	0m0.708s
+user	0m1.397s
+sys	0m0.147s
 run query 35 with optimizer
 {
   "error": false,
@@ -520,9 +520,9 @@ run query 35 with optimizer
   "results": []
 }
 
-real	0m20.391s
-user	0m1.414s
-sys	0m0.172s
+real	0m0.693s
+user	0m1.411s
+sys	0m0.152s
 run query 36 with optimizer
 {
   "error": false,
@@ -535,9 +535,9 @@ run query 36 with optimizer
   "results": []
 }
 
-real	0m19.870s
-user	0m1.415s
-sys	0m0.169s
+real	0m0.696s
+user	0m1.414s
+sys	0m0.167s
 run query 37 with optimizer
 {
   "error": false,
@@ -550,9 +550,9 @@ run query 37 with optimizer
   "results": []
 }
 
-real	0m19.707s
-user	0m1.409s
-sys	0m0.163s
+real	0m0.698s
+user	0m1.404s
+sys	0m0.150s
 run query 38 with optimizer
 {
   "error": false,
@@ -565,9 +565,9 @@ run query 38 with optimizer
   "results": []
 }
 
-real	0m20.353s
-user	0m1.408s
-sys	0m0.166s
+real	0m0.687s
+user	0m1.382s
+sys	0m0.154s
 run query 39 with optimizer
 {
   "error": false,
@@ -580,9 +580,9 @@ run query 39 with optimizer
   "results": []
 }
 
-real	0m20.179s
-user	0m1.428s
-sys	0m0.157s
+real	0m0.734s
+user	0m1.381s
+sys	0m0.185s
 run query 40 with optimizer
 {
   "error": false,
@@ -595,9 +595,9 @@ run query 40 with optimizer
   "results": []
 }
 
-real	0m20.394s
-user	0m1.391s
-sys	0m0.180s
+real	0m0.688s
+user	0m1.428s
+sys	0m0.147s
 run query 41 with optimizer
 {
   "error": false,
@@ -610,9 +610,9 @@ run query 41 with optimizer
   "results": []
 }
 
-real	0m20.379s
-user	0m1.368s
-sys	0m0.149s
+real	0m0.711s
+user	0m1.426s
+sys	0m0.167s
 run query 42 with optimizer
 {
   "error": false,
@@ -625,9 +625,9 @@ run query 42 with optimizer
   "results": []
 }
 
-real	0m21.294s
-user	0m1.424s
-sys	0m0.144s
+real	0m0.708s
+user	0m1.417s
+sys	0m0.132s
 run query 43 with optimizer
 {
   "error": false,
@@ -640,9 +640,9 @@ run query 43 with optimizer
   "results": []
 }
 
-real	0m19.669s
-user	0m1.414s
-sys	0m0.154s
+real	0m0.673s
+user	0m1.415s
+sys	0m0.136s
 run query 44 with optimizer
 {
   "error": false,
@@ -655,9 +655,9 @@ run query 44 with optimizer
   "results": []
 }
 
-real	0m20.594s
-user	0m1.385s
-sys	0m0.169s
+real	0m0.712s
+user	0m1.381s
+sys	0m0.174s
 run query 45 with optimizer
 {
   "error": false,
@@ -670,9 +670,9 @@ run query 45 with optimizer
   "results": []
 }
 
-real	0m20.081s
-user	0m1.446s
-sys	0m0.148s
+real	0m0.680s
+user	0m1.409s
+sys	0m0.160s
 run query 46 with optimizer
 {
   "error": false,
@@ -685,9 +685,9 @@ run query 46 with optimizer
   "results": []
 }
 
-real	0m20.160s
-user	0m1.426s
-sys	0m0.161s
+real	0m0.689s
+user	0m1.396s
+sys	0m0.148s
 run query 47 with optimizer
 {
   "error": false,
@@ -700,9 +700,9 @@ run query 47 with optimizer
   "results": []
 }
 
-real	0m20.278s
-user	0m1.384s
-sys	0m0.168s
+real	0m0.671s
+user	0m1.373s
+sys	0m0.151s
 run query 48 with optimizer
 {
   "error": false,
@@ -715,9 +715,9 @@ run query 48 with optimizer
   "results": []
 }
 
-real	0m20.552s
-user	0m1.409s
-sys	0m0.139s
+real	0m0.691s
+user	0m1.415s
+sys	0m0.138s
 run query 49 with optimizer
 {
   "error": false,
@@ -730,9 +730,9 @@ run query 49 with optimizer
   "results": []
 }
 
-real	0m19.829s
-user	0m1.376s
-sys	0m0.142s
+real	0m0.696s
+user	0m1.405s
+sys	0m0.150s
 run query 50 with optimizer
 {
   "error": false,
@@ -745,9 +745,9 @@ run query 50 with optimizer
   "results": []
 }
 
-real	0m19.765s
-user	0m1.391s
-sys	0m0.170s
+real	0m0.723s
+user	0m1.388s
+sys	0m0.141s
 run query 1 without optimizer
 {
   "error": false,
@@ -760,9 +760,9 @@ run query 1 without optimizer
   "results": []
 }
 
-real	0m20.063s
-user	0m1.386s
-sys	0m0.158s
+real	0m0.705s
+user	0m1.400s
+sys	0m0.134s
 run query 2 without optimizer
 {
   "error": false,
@@ -775,9 +775,9 @@ run query 2 without optimizer
   "results": []
 }
 
-real	0m20.356s
-user	0m1.469s
-sys	0m0.143s
+real	0m0.677s
+user	0m1.410s
+sys	0m0.146s
 run query 3 without optimizer
 {
   "error": false,
@@ -790,9 +790,9 @@ run query 3 without optimizer
   "results": []
 }
 
-real	0m20.748s
-user	0m1.431s
-sys	0m0.168s
+real	0m0.693s
+user	0m1.396s
+sys	0m0.157s
 run query 4 without optimizer
 {
   "error": false,
@@ -805,9 +805,9 @@ run query 4 without optimizer
   "results": []
 }
 
-real	0m19.990s
-user	0m1.400s
-sys	0m0.140s
+real	0m0.686s
+user	0m1.420s
+sys	0m0.144s
 run query 5 without optimizer
 {
   "error": false,
@@ -820,9 +820,9 @@ run query 5 without optimizer
   "results": []
 }
 
-real	0m19.663s
-user	0m1.387s
-sys	0m0.176s
+real	0m0.670s
+user	0m1.360s
+sys	0m0.155s
 run query 6 without optimizer
 {
   "error": false,
@@ -835,9 +835,9 @@ run query 6 without optimizer
   "results": []
 }
 
-real	0m19.878s
-user	0m1.398s
-sys	0m0.153s
+real	0m0.688s
+user	0m1.390s
+sys	0m0.143s
 run query 7 without optimizer
 {
   "error": false,
@@ -850,9 +850,9 @@ run query 7 without optimizer
   "results": []
 }
 
-real	0m20.726s
-user	0m1.402s
-sys	0m0.164s
+real	0m0.696s
+user	0m1.409s
+sys	0m0.176s
 run query 8 without optimizer
 {
   "error": false,
@@ -865,9 +865,9 @@ run query 8 without optimizer
   "results": []
 }
 
-real	0m20.260s
-user	0m1.413s
-sys	0m0.168s
+real	0m0.691s
+user	0m1.383s
+sys	0m0.166s
 run query 9 without optimizer
 {
   "error": false,
@@ -880,8 +880,8 @@ run query 9 without optimizer
   "results": []
 }
 
-real	0m20.307s
-user	0m1.417s
+real	0m0.693s
+user	0m1.413s
 sys	0m0.146s
 run query 10 without optimizer
 {
@@ -895,9 +895,9 @@ run query 10 without optimizer
   "results": []
 }
 
-real	0m21.968s
-user	0m1.388s
-sys	0m0.157s
+real	0m0.685s
+user	0m1.445s
+sys	0m0.140s
 run query 11 without optimizer
 {
   "error": false,
@@ -910,9 +910,9 @@ run query 11 without optimizer
   "results": []
 }
 
-real	0m20.152s
-user	0m1.408s
-sys	0m0.140s
+real	0m0.682s
+user	0m1.391s
+sys	0m0.160s
 run query 12 without optimizer
 {
   "error": false,
@@ -925,9 +925,9 @@ run query 12 without optimizer
   "results": []
 }
 
-real	0m20.303s
-user	0m1.396s
-sys	0m0.158s
+real	0m0.683s
+user	0m1.409s
+sys	0m0.130s
 run query 13 without optimizer
 {
   "error": false,
@@ -940,9 +940,9 @@ run query 13 without optimizer
   "results": []
 }
 
-real	0m20.212s
-user	0m1.411s
-sys	0m0.136s
+real	0m0.693s
+user	0m1.396s
+sys	0m0.158s
 run query 14 without optimizer
 {
   "error": false,
@@ -955,9 +955,9 @@ run query 14 without optimizer
   "results": []
 }
 
-real	0m20.347s
-user	0m1.466s
-sys	0m0.122s
+real	0m0.688s
+user	0m1.395s
+sys	0m0.160s
 run query 15 without optimizer
 {
   "error": false,
@@ -970,9 +970,9 @@ run query 15 without optimizer
   "results": []
 }
 
-real	0m21.366s
-user	0m1.394s
-sys	0m0.154s
+real	0m0.700s
+user	0m1.409s
+sys	0m0.139s
 run query 16 without optimizer
 {
   "error": false,
@@ -985,9 +985,9 @@ run query 16 without optimizer
   "results": []
 }
 
-real	0m21.043s
-user	0m1.391s
-sys	0m0.171s
+real	0m0.712s
+user	0m1.392s
+sys	0m0.153s
 run query 17 without optimizer
 {
   "error": false,
@@ -1000,9 +1000,9 @@ run query 17 without optimizer
   "results": []
 }
 
-real	0m20.420s
+real	0m0.683s
 user	0m1.417s
-sys	0m0.143s
+sys	0m0.142s
 run query 18 without optimizer
 {
   "error": false,
@@ -1015,9 +1015,9 @@ run query 18 without optimizer
   "results": []
 }
 
-real	0m21.237s
-user	0m1.390s
-sys	0m0.190s
+real	0m0.691s
+user	0m1.412s
+sys	0m0.127s
 run query 19 without optimizer
 {
   "error": false,
@@ -1030,8 +1030,8 @@ run query 19 without optimizer
   "results": []
 }
 
-real	0m20.378s
-user	0m1.400s
+real	0m0.690s
+user	0m1.390s
 sys	0m0.150s
 run query 20 without optimizer
 {
@@ -1045,9 +1045,9 @@ run query 20 without optimizer
   "results": []
 }
 
-real	0m19.978s
-user	0m1.398s
-sys	0m0.146s
+real	0m0.677s
+user	0m1.407s
+sys	0m0.139s
 run query 21 without optimizer
 {
   "error": false,
@@ -1060,9 +1060,9 @@ run query 21 without optimizer
   "results": []
 }
 
-real	0m20.129s
-user	0m1.378s
-sys	0m0.157s
+real	0m0.704s
+user	0m1.403s
+sys	0m0.139s
 run query 22 without optimizer
 {
   "error": false,
@@ -1075,9 +1075,9 @@ run query 22 without optimizer
   "results": []
 }
 
-real	0m20.026s
-user	0m1.415s
-sys	0m0.147s
+real	0m0.688s
+user	0m1.379s
+sys	0m0.134s
 run query 23 without optimizer
 {
   "error": false,
@@ -1090,9 +1090,9 @@ run query 23 without optimizer
   "results": []
 }
 
-real	0m20.076s
-user	0m1.407s
-sys	0m0.155s
+real	0m0.690s
+user	0m1.371s
+sys	0m0.140s
 run query 24 without optimizer
 {
   "error": false,
@@ -1105,9 +1105,9 @@ run query 24 without optimizer
   "results": []
 }
 
-real	0m20.107s
-user	0m1.350s
-sys	0m0.191s
+real	0m0.678s
+user	0m1.386s
+sys	0m0.133s
 run query 25 without optimizer
 {
   "error": false,
@@ -1120,9 +1120,9 @@ run query 25 without optimizer
   "results": []
 }
 
-real	0m21.818s
-user	0m1.369s
-sys	0m0.156s
+real	0m0.703s
+user	0m1.446s
+sys	0m0.146s
 run query 26 without optimizer
 {
   "error": false,
@@ -1135,9 +1135,9 @@ run query 26 without optimizer
   "results": []
 }
 
-real	0m19.651s
-user	0m1.399s
-sys	0m0.136s
+real	0m0.681s
+user	0m1.406s
+sys	0m0.174s
 run query 27 without optimizer
 {
   "error": false,
@@ -1150,9 +1150,9 @@ run query 27 without optimizer
   "results": []
 }
 
-real	0m19.952s
-user	0m1.407s
-sys	0m0.166s
+real	0m0.672s
+user	0m1.368s
+sys	0m0.161s
 run query 28 without optimizer
 {
   "error": false,
@@ -1165,9 +1165,9 @@ run query 28 without optimizer
   "results": []
 }
 
-real	0m19.770s
-user	0m1.417s
-sys	0m0.165s
+real	0m0.680s
+user	0m1.412s
+sys	0m0.131s
 run query 29 without optimizer
 {
   "error": false,
@@ -1180,9 +1180,9 @@ run query 29 without optimizer
   "results": []
 }
 
-real	0m19.631s
-user	0m1.401s
-sys	0m0.145s
+real	0m0.675s
+user	0m1.397s
+sys	0m0.139s
 run query 30 without optimizer
 {
   "error": false,
@@ -1195,9 +1195,9 @@ run query 30 without optimizer
   "results": []
 }
 
-real	0m20.724s
-user	0m1.370s
-sys	0m0.154s
+real	0m0.677s
+user	0m1.368s
+sys	0m0.166s
 run query 31 without optimizer
 {
   "error": false,
@@ -1210,9 +1210,9 @@ run query 31 without optimizer
   "results": []
 }
 
-real	0m19.736s
-user	0m1.367s
-sys	0m0.160s
+real	0m0.676s
+user	0m1.394s
+sys	0m0.174s
 run query 32 without optimizer
 {
   "error": false,
@@ -1225,9 +1225,9 @@ run query 32 without optimizer
   "results": []
 }
 
-real	0m19.861s
-user	0m1.402s
-sys	0m0.142s
+real	0m0.694s
+user	0m1.434s
+sys	0m0.128s
 run query 33 without optimizer
 {
   "error": false,
@@ -1240,9 +1240,9 @@ run query 33 without optimizer
   "results": []
 }
 
-real	0m20.169s
-user	0m1.364s
-sys	0m0.165s
+real	0m0.683s
+user	0m1.429s
+sys	0m0.146s
 run query 34 without optimizer
 {
   "error": false,
@@ -1255,9 +1255,9 @@ run query 34 without optimizer
   "results": []
 }
 
-real	0m20.382s
-user	0m1.411s
-sys	0m0.160s
+real	0m0.727s
+user	0m1.392s
+sys	0m0.165s
 run query 35 without optimizer
 {
   "error": false,
@@ -1270,9 +1270,9 @@ run query 35 without optimizer
   "results": []
 }
 
-real	0m20.082s
-user	0m1.383s
-sys	0m0.163s
+real	0m0.694s
+user	0m1.403s
+sys	0m0.146s
 run query 36 without optimizer
 {
   "error": false,
@@ -1285,9 +1285,9 @@ run query 36 without optimizer
   "results": []
 }
 
-real	0m20.278s
-user	0m1.420s
-sys	0m0.138s
+real	0m0.726s
+user	0m1.400s
+sys	0m0.135s
 run query 37 without optimizer
 {
   "error": false,
@@ -1300,9 +1300,9 @@ run query 37 without optimizer
   "results": []
 }
 
-real	0m19.755s
-user	0m1.373s
-sys	0m0.159s
+real	0m0.695s
+user	0m1.418s
+sys	0m0.141s
 run query 38 without optimizer
 {
   "error": false,
@@ -1315,9 +1315,9 @@ run query 38 without optimizer
   "results": []
 }
 
-real	0m19.779s
-user	0m1.394s
-sys	0m0.163s
+real	0m0.724s
+user	0m1.404s
+sys	0m0.134s
 run query 39 without optimizer
 {
   "error": false,
@@ -1330,9 +1330,9 @@ run query 39 without optimizer
   "results": []
 }
 
-real	0m19.968s
-user	0m1.387s
-sys	0m0.159s
+real	0m0.683s
+user	0m1.362s
+sys	0m0.181s
 run query 40 without optimizer
 {
   "error": false,
@@ -1345,9 +1345,9 @@ run query 40 without optimizer
   "results": []
 }
 
-real	0m20.052s
+real	0m0.726s
 user	0m1.402s
-sys	0m0.156s
+sys	0m0.169s
 run query 41 without optimizer
 {
   "error": false,
@@ -1360,9 +1360,9 @@ run query 41 without optimizer
   "results": []
 }
 
-real	0m20.311s
-user	0m1.390s
-sys	0m0.170s
+real	0m0.681s
+user	0m1.365s
+sys	0m0.163s
 run query 42 without optimizer
 {
   "error": false,
@@ -1375,9 +1375,9 @@ run query 42 without optimizer
   "results": []
 }
 
-real	0m20.719s
-user	0m1.377s
-sys	0m0.165s
+real	0m0.716s
+user	0m1.437s
+sys	0m0.146s
 run query 43 without optimizer
 {
   "error": false,
@@ -1390,9 +1390,9 @@ run query 43 without optimizer
   "results": []
 }
 
-real	0m22.933s
-user	0m1.382s
-sys	0m0.155s
+real	0m0.737s
+user	0m1.385s
+sys	0m0.142s
 run query 44 without optimizer
 {
   "error": false,
@@ -1405,9 +1405,9 @@ run query 44 without optimizer
   "results": []
 }
 
-real	0m22.318s
-user	0m1.403s
-sys	0m0.158s
+real	0m0.732s
+user	0m1.367s
+sys	0m0.162s
 run query 45 without optimizer
 {
   "error": false,
@@ -1420,9 +1420,9 @@ run query 45 without optimizer
   "results": []
 }
 
-real	0m20.953s
-user	0m1.428s
-sys	0m0.120s
+real	0m0.727s
+user	0m1.406s
+sys	0m0.156s
 run query 46 without optimizer
 {
   "error": false,
@@ -1435,9 +1435,9 @@ run query 46 without optimizer
   "results": []
 }
 
-real	0m19.685s
-user	0m1.387s
-sys	0m0.162s
+real	0m0.690s
+user	0m1.384s
+sys	0m0.141s
 run query 47 without optimizer
 {
   "error": false,
@@ -1450,9 +1450,9 @@ run query 47 without optimizer
   "results": []
 }
 
-real	0m19.834s
-user	0m1.430s
-sys	0m0.170s
+real	0m0.708s
+user	0m1.407s
+sys	0m0.153s
 run query 48 without optimizer
 {
   "error": false,
@@ -1465,9 +1465,9 @@ run query 48 without optimizer
   "results": []
 }
 
-real	0m21.604s
-user	0m1.436s
-sys	0m0.160s
+real	0m0.694s
+user	0m1.384s
+sys	0m0.146s
 run query 49 without optimizer
 {
   "error": false,
@@ -1480,9 +1480,9 @@ run query 49 without optimizer
   "results": []
 }
 
-real	0m19.848s
-user	0m1.423s
-sys	0m0.144s
+real	0m0.687s
+user	0m1.384s
+sys	0m0.147s
 run query 50 without optimizer
 {
   "error": false,
@@ -1495,9 +1495,9 @@ run query 50 without optimizer
   "results": []
 }
 
-real	0m20.327s
-user	0m1.404s
-sys	0m0.145s
+real	0m0.692s
+user	0m1.397s
+sys	0m0.146s
 run query 1 with optimizer
 {
   "error": false,
@@ -1510,9 +1510,9 @@ run query 1 with optimizer
   "results": []
 }
 
-real	0m21.102s
-user	0m1.494s
-sys	0m0.174s
+real	0m0.689s
+user	0m1.384s
+sys	0m0.152s
 run query 2 with optimizer
 {
   "error": false,
@@ -1525,9 +1525,9 @@ run query 2 with optimizer
   "results": []
 }
 
-real	0m21.624s
-user	0m1.485s
-sys	0m0.166s
+real	0m0.717s
+user	0m1.435s
+sys	0m0.178s
 run query 3 with optimizer
 {
   "error": false,
@@ -1540,9 +1540,9 @@ run query 3 with optimizer
   "results": []
 }
 
-real	0m21.784s
-user	0m1.471s
-sys	0m0.157s
+real	0m0.696s
+user	0m1.380s
+sys	0m0.166s
 run query 4 with optimizer
 {
   "error": false,
@@ -1555,9 +1555,9 @@ run query 4 with optimizer
   "results": []
 }
 
-real	0m21.096s
-user	0m1.471s
-sys	0m0.183s
+real	0m0.669s
+user	0m1.426s
+sys	0m0.142s
 run query 5 with optimizer
 {
   "error": false,
@@ -1570,9 +1570,9 @@ run query 5 with optimizer
   "results": []
 }
 
-real	0m21.927s
-user	0m1.434s
-sys	0m0.150s
+real	0m0.690s
+user	0m1.474s
+sys	0m0.139s
 run query 6 with optimizer
 {
   "error": false,
@@ -1585,9 +1585,9 @@ run query 6 with optimizer
   "results": []
 }
 
-real	0m20.198s
-user	0m1.462s
-sys	0m0.151s
+real	0m0.689s
+user	0m1.422s
+sys	0m0.153s
 run query 7 with optimizer
 {
   "error": false,
@@ -1600,9 +1600,9 @@ run query 7 with optimizer
   "results": []
 }
 
-real	0m20.798s
-user	0m1.414s
-sys	0m0.167s
+real	0m0.677s
+user	0m1.402s
+sys	0m0.145s
 run query 8 with optimizer
 {
   "error": false,
@@ -1615,9 +1615,9 @@ run query 8 with optimizer
   "results": []
 }
 
-real	0m20.974s
-user	0m1.389s
-sys	0m0.183s
+real	0m0.720s
+user	0m1.428s
+sys	0m0.160s
 run query 9 with optimizer
 {
   "error": false,
@@ -1630,9 +1630,9 @@ run query 9 with optimizer
   "results": []
 }
 
-real	0m20.785s
+real	0m0.699s
 user	0m1.454s
-sys	0m0.169s
+sys	0m0.141s
 run query 10 with optimizer
 {
   "error": false,
@@ -1645,9 +1645,9 @@ run query 10 with optimizer
   "results": []
 }
 
-real	0m20.767s
-user	0m1.419s
-sys	0m0.176s
+real	0m0.682s
+user	0m1.370s
+sys	0m0.152s
 run query 11 with optimizer
 {
   "error": false,
@@ -1660,9 +1660,9 @@ run query 11 with optimizer
   "results": []
 }
 
-real	0m20.209s
-user	0m1.462s
-sys	0m0.173s
+real	0m0.694s
+user	0m1.401s
+sys	0m0.144s
 run query 12 with optimizer
 {
   "error": false,
@@ -1675,8 +1675,8 @@ run query 12 with optimizer
   "results": []
 }
 
-real	0m20.369s
-user	0m1.475s
+real	0m0.687s
+user	0m1.394s
 sys	0m0.157s
 run query 13 with optimizer
 {
@@ -1690,9 +1690,9 @@ run query 13 with optimizer
   "results": []
 }
 
-real	0m20.583s
-user	0m1.458s
-sys	0m0.158s
+real	0m0.692s
+user	0m1.398s
+sys	0m0.164s
 run query 14 with optimizer
 {
   "error": false,
@@ -1705,9 +1705,9 @@ run query 14 with optimizer
   "results": []
 }
 
-real	0m20.882s
-user	0m1.427s
-sys	0m0.171s
+real	0m0.700s
+user	0m1.438s
+sys	0m0.141s
 run query 15 with optimizer
 {
   "error": false,
@@ -1720,9 +1720,9 @@ run query 15 with optimizer
   "results": []
 }
 
-real	0m20.431s
-user	0m1.416s
-sys	0m0.164s
+real	0m0.689s
+user	0m1.371s
+sys	0m0.151s
 run query 16 with optimizer
 {
   "error": false,
@@ -1735,9 +1735,9 @@ run query 16 with optimizer
   "results": []
 }
 
-real	0m20.127s
-user	0m1.427s
-sys	0m0.177s
+real	0m0.721s
+user	0m1.408s
+sys	0m0.154s
 run query 17 with optimizer
 {
   "error": false,
@@ -1750,9 +1750,9 @@ run query 17 with optimizer
   "results": []
 }
 
-real	0m20.283s
-user	0m1.430s
-sys	0m0.183s
+real	0m0.687s
+user	0m1.399s
+sys	0m0.154s
 run query 18 with optimizer
 {
   "error": false,
@@ -1765,9 +1765,9 @@ run query 18 with optimizer
   "results": []
 }
 
-real	0m20.778s
-user	0m1.444s
-sys	0m0.171s
+real	0m0.719s
+user	0m1.412s
+sys	0m0.146s
 run query 19 with optimizer
 {
   "error": false,
@@ -1780,9 +1780,9 @@ run query 19 with optimizer
   "results": []
 }
 
-real	0m21.733s
-user	0m1.478s
-sys	0m0.163s
+real	0m0.667s
+user	0m1.396s
+sys	0m0.156s
 run query 20 with optimizer
 {
   "error": false,
@@ -1795,9 +1795,9 @@ run query 20 with optimizer
   "results": []
 }
 
-real	0m21.027s
-user	0m1.472s
-sys	0m0.187s
+real	0m0.748s
+user	0m1.422s
+sys	0m0.139s
 run query 21 with optimizer
 {
   "error": false,
@@ -1810,9 +1810,9 @@ run query 21 with optimizer
   "results": []
 }
 
-real	0m20.063s
-user	0m1.427s
-sys	0m0.161s
+real	0m0.676s
+user	0m1.435s
+sys	0m0.162s
 run query 22 with optimizer
 {
   "error": false,
@@ -1825,9 +1825,9 @@ run query 22 with optimizer
   "results": []
 }
 
-real	0m20.859s
-user	0m1.472s
-sys	0m0.158s
+real	0m0.740s
+user	0m1.427s
+sys	0m0.149s
 run query 23 with optimizer
 {
   "error": false,
@@ -1840,9 +1840,9 @@ run query 23 with optimizer
   "results": []
 }
 
-real	0m21.168s
-user	0m1.399s
-sys	0m0.171s
+real	0m0.670s
+user	0m1.395s
+sys	0m0.147s
 run query 24 with optimizer
 {
   "error": false,
@@ -1855,9 +1855,9 @@ run query 24 with optimizer
   "results": []
 }
 
-real	0m20.547s
-user	0m1.417s
-sys	0m0.165s
+real	0m0.728s
+user	0m1.446s
+sys	0m0.161s
 run query 25 with optimizer
 {
   "error": false,
@@ -1870,9 +1870,9 @@ run query 25 with optimizer
   "results": []
 }
 
-real	0m20.579s
-user	0m1.398s
-sys	0m0.165s
+real	0m0.695s
+user	0m1.405s
+sys	0m0.176s
 run query 26 with optimizer
 {
   "error": false,
@@ -1885,9 +1885,9 @@ run query 26 with optimizer
   "results": []
 }
 
-real	0m20.394s
-user	0m1.433s
-sys	0m0.136s
+real	0m0.723s
+user	0m1.391s
+sys	0m0.158s
 run query 27 with optimizer
 {
   "error": false,
@@ -1900,9 +1900,9 @@ run query 27 with optimizer
   "results": []
 }
 
-real	0m20.530s
-user	0m1.472s
-sys	0m0.159s
+real	0m0.695s
+user	0m1.415s
+sys	0m0.170s
 run query 28 with optimizer
 {
   "error": false,
@@ -1915,8 +1915,8 @@ run query 28 with optimizer
   "results": []
 }
 
-real	0m20.733s
-user	0m1.455s
+real	0m0.723s
+user	0m1.422s
 sys	0m0.154s
 run query 29 with optimizer
 {
@@ -1930,9 +1930,9 @@ run query 29 with optimizer
   "results": []
 }
 
-real	0m20.902s
-user	0m1.439s
-sys	0m0.160s
+real	0m0.688s
+user	0m1.424s
+sys	0m0.167s
 run query 30 with optimizer
 {
   "error": false,
@@ -1945,9 +1945,9 @@ run query 30 with optimizer
   "results": []
 }
 
-real	0m20.336s
-user	0m1.421s
-sys	0m0.163s
+real	0m0.733s
+user	0m1.423s
+sys	0m0.167s
 run query 31 with optimizer
 {
   "error": false,
@@ -1960,9 +1960,9 @@ run query 31 with optimizer
   "results": []
 }
 
-real	0m19.985s
-user	0m1.442s
-sys	0m0.154s
+real	0m0.696s
+user	0m1.398s
+sys	0m0.167s
 run query 32 with optimizer
 {
   "error": false,
@@ -1975,9 +1975,9 @@ run query 32 with optimizer
   "results": []
 }
 
-real	0m20.298s
-user	0m1.431s
-sys	0m0.140s
+real	0m0.740s
+user	0m1.471s
+sys	0m0.139s
 run query 33 with optimizer
 {
   "error": false,
@@ -1990,9 +1990,9 @@ run query 33 with optimizer
   "results": []
 }
 
-real	0m20.413s
-user	0m1.476s
-sys	0m0.148s
+real	0m0.726s
+user	0m1.432s
+sys	0m0.170s
 run query 34 with optimizer
 {
   "error": false,
@@ -2005,9 +2005,9 @@ run query 34 with optimizer
   "results": []
 }
 
-real	0m19.889s
-user	0m1.373s
-sys	0m0.164s
+real	0m0.731s
+user	0m1.440s
+sys	0m0.155s
 run query 35 with optimizer
 {
   "error": false,
@@ -2020,8 +2020,8 @@ run query 35 with optimizer
   "results": []
 }
 
-real	0m20.927s
-user	0m1.482s
+real	0m0.676s
+user	0m1.411s
 sys	0m0.150s
 run query 36 with optimizer
 {
@@ -2035,9 +2035,9 @@ run query 36 with optimizer
   "results": []
 }
 
-real	0m20.191s
-user	0m1.372s
-sys	0m0.195s
+real	0m0.732s
+user	0m1.443s
+sys	0m0.140s
 run query 37 with optimizer
 {
   "error": false,
@@ -2050,9 +2050,9 @@ run query 37 with optimizer
   "results": []
 }
 
-real	0m19.904s
-user	0m1.420s
-sys	0m0.169s
+real	0m0.666s
+user	0m1.401s
+sys	0m0.147s
 run query 38 with optimizer
 {
   "error": false,
@@ -2065,9 +2065,9 @@ run query 38 with optimizer
   "results": []
 }
 
-real	0m19.917s
-user	0m1.426s
-sys	0m0.150s
+real	0m0.687s
+user	0m1.406s
+sys	0m0.143s
 run query 39 with optimizer
 {
   "error": false,
@@ -2080,9 +2080,9 @@ run query 39 with optimizer
   "results": []
 }
 
-real	0m20.519s
-user	0m1.435s
-sys	0m0.140s
+real	0m0.703s
+user	0m1.406s
+sys	0m0.180s
 run query 40 with optimizer
 {
   "error": false,
@@ -2095,9 +2095,9 @@ run query 40 with optimizer
   "results": []
 }
 
-real	0m20.354s
-user	0m1.409s
-sys	0m0.168s
+real	0m0.692s
+user	0m1.416s
+sys	0m0.128s
 run query 41 with optimizer
 {
   "error": false,
@@ -2110,9 +2110,9 @@ run query 41 with optimizer
   "results": []
 }
 
-real	0m20.264s
-user	0m1.382s
-sys	0m0.165s
+real	0m0.679s
+user	0m1.397s
+sys	0m0.144s
 run query 42 with optimizer
 {
   "error": false,
@@ -2125,9 +2125,9 @@ run query 42 with optimizer
   "results": []
 }
 
-real	0m20.208s
-user	0m1.409s
-sys	0m0.141s
+real	0m0.698s
+user	0m1.415s
+sys	0m0.160s
 run query 43 with optimizer
 {
   "error": false,
@@ -2140,9 +2140,9 @@ run query 43 with optimizer
   "results": []
 }
 
-real	0m20.431s
-user	0m1.392s
-sys	0m0.167s
+real	0m0.781s
+user	0m1.468s
+sys	0m0.159s
 run query 44 with optimizer
 {
   "error": false,
@@ -2155,9 +2155,9 @@ run query 44 with optimizer
   "results": []
 }
 
-real	0m21.994s
-user	0m1.449s
-sys	0m0.138s
+real	0m0.692s
+user	0m1.404s
+sys	0m0.156s
 run query 45 with optimizer
 {
   "error": false,
@@ -2170,9 +2170,9 @@ run query 45 with optimizer
   "results": []
 }
 
-real	0m21.344s
-user	0m1.453s
-sys	0m0.162s
+real	0m0.740s
+user	0m1.436s
+sys	0m0.140s
 run query 46 with optimizer
 {
   "error": false,
@@ -2185,9 +2185,9 @@ run query 46 with optimizer
   "results": []
 }
 
-real	0m20.121s
+real	0m0.715s
 user	0m1.451s
-sys	0m0.150s
+sys	0m0.136s
 run query 47 with optimizer
 {
   "error": false,
@@ -2200,9 +2200,9 @@ run query 47 with optimizer
   "results": []
 }
 
-real	0m20.070s
-user	0m1.398s
-sys	0m0.187s
+real	0m0.717s
+user	0m1.401s
+sys	0m0.156s
 run query 48 with optimizer
 {
   "error": false,
@@ -2215,9 +2215,9 @@ run query 48 with optimizer
   "results": []
 }
 
-real	0m19.988s
-user	0m1.400s
-sys	0m0.170s
+real	0m0.738s
+user	0m1.471s
+sys	0m0.144s
 run query 49 with optimizer
 {
   "error": false,
@@ -2230,9 +2230,9 @@ run query 49 with optimizer
   "results": []
 }
 
-real	0m19.992s
-user	0m1.410s
-sys	0m0.161s
+real	0m0.689s
+user	0m1.419s
+sys	0m0.159s
 run query 50 with optimizer
 {
   "error": false,
@@ -2245,9 +2245,9 @@ run query 50 with optimizer
   "results": []
 }
 
-real	0m21.470s
-user	0m1.499s
-sys	0m0.151s
+real	0m0.720s
+user	0m1.384s
+sys	0m0.162s
 run query 1 without optimizer
 {
   "error": false,
@@ -2260,9 +2260,9 @@ run query 1 without optimizer
   "results": []
 }
 
-real	0m21.340s
-user	0m1.425s
-sys	0m0.154s
+real	0m0.699s
+user	0m1.429s
+sys	0m0.146s
 run query 2 without optimizer
 {
   "error": false,
@@ -2275,9 +2275,9 @@ run query 2 without optimizer
   "results": []
 }
 
-real	0m20.110s
-user	0m1.411s
-sys	0m0.171s
+real	0m0.724s
+user	0m1.405s
+sys	0m0.156s
 run query 3 without optimizer
 {
   "error": false,
@@ -2290,9 +2290,9 @@ run query 3 without optimizer
   "results": []
 }
 
-real	0m20.681s
-user	0m1.414s
-sys	0m0.171s
+real	0m0.689s
+user	0m1.389s
+sys	0m0.175s
 run query 4 without optimizer
 {
   "error": false,
@@ -2305,9 +2305,9 @@ run query 4 without optimizer
   "results": []
 }
 
-real	0m20.159s
-user	0m1.403s
-sys	0m0.179s
+real	0m0.702s
+user	0m1.481s
+sys	0m0.186s
 run query 5 without optimizer
 {
   "error": false,
@@ -2320,9 +2320,9 @@ run query 5 without optimizer
   "results": []
 }
 
-real	0m19.666s
-user	0m1.419s
-sys	0m0.146s
+real	0m0.729s
+user	0m1.381s
+sys	0m0.175s
 run query 6 without optimizer
 {
   "error": false,
@@ -2335,9 +2335,9 @@ run query 6 without optimizer
   "results": []
 }
 
-real	0m19.913s
-user	0m1.415s
-sys	0m0.155s
+real	0m0.697s
+user	0m1.395s
+sys	0m0.145s
 run query 7 without optimizer
 {
   "error": false,
@@ -2350,9 +2350,9 @@ run query 7 without optimizer
   "results": []
 }
 
-real	0m20.039s
-user	0m1.439s
-sys	0m0.162s
+real	0m0.731s
+user	0m1.415s
+sys	0m0.134s
 run query 8 without optimizer
 {
   "error": false,
@@ -2365,9 +2365,9 @@ run query 8 without optimizer
   "results": []
 }
 
-real	0m19.692s
-user	0m1.463s
-sys	0m0.138s
+real	0m0.714s
+user	0m1.434s
+sys	0m0.148s
 run query 9 without optimizer
 {
   "error": false,
@@ -2380,9 +2380,9 @@ run query 9 without optimizer
   "results": []
 }
 
-real	0m19.497s
-user	0m1.374s
-sys	0m0.154s
+real	0m0.781s
+user	0m1.447s
+sys	0m0.161s
 run query 10 without optimizer
 {
   "error": false,
@@ -2395,9 +2395,9 @@ run query 10 without optimizer
   "results": []
 }
 
-real	0m20.676s
-user	0m1.386s
-sys	0m0.166s
+real	0m0.700s
+user	0m1.424s
+sys	0m0.135s
 run query 11 without optimizer
 {
   "error": false,
@@ -2410,9 +2410,9 @@ run query 11 without optimizer
   "results": []
 }
 
-real	0m19.914s
-user	0m1.383s
-sys	0m0.155s
+real	0m0.788s
+user	0m1.462s
+sys	0m0.130s
 run query 12 without optimizer
 {
   "error": false,
@@ -2425,9 +2425,9 @@ run query 12 without optimizer
   "results": []
 }
 
-real	0m20.915s
-user	0m1.397s
-sys	0m0.162s
+real	0m0.690s
+user	0m1.420s
+sys	0m0.166s
 run query 13 without optimizer
 {
   "error": false,
@@ -2440,9 +2440,9 @@ run query 13 without optimizer
   "results": []
 }
 
-real	0m20.000s
-user	0m1.456s
-sys	0m0.157s
+real	0m0.686s
+user	0m1.426s
+sys	0m0.151s
 run query 14 without optimizer
 {
   "error": false,
@@ -2455,9 +2455,9 @@ run query 14 without optimizer
   "results": []
 }
 
-real	0m20.266s
-user	0m1.389s
-sys	0m0.165s
+real	0m0.684s
+user	0m1.436s
+sys	0m0.157s
 run query 15 without optimizer
 {
   "error": false,
@@ -2470,9 +2470,9 @@ run query 15 without optimizer
   "results": []
 }
 
-real	0m20.320s
-user	0m1.376s
-sys	0m0.163s
+real	0m0.683s
+user	0m1.387s
+sys	0m0.155s
 run query 16 without optimizer
 {
   "error": false,
@@ -2485,9 +2485,9 @@ run query 16 without optimizer
   "results": []
 }
 
-real	0m19.718s
-user	0m1.416s
-sys	0m0.150s
+real	0m0.728s
+user	0m1.426s
+sys	0m0.136s
 run query 17 without optimizer
 {
   "error": false,
@@ -2500,9 +2500,9 @@ run query 17 without optimizer
   "results": []
 }
 
-real	0m20.432s
-user	0m1.398s
-sys	0m0.156s
+real	0m0.720s
+user	0m1.429s
+sys	0m0.182s
 run query 18 without optimizer
 {
   "error": false,
@@ -2515,9 +2515,9 @@ run query 18 without optimizer
   "results": []
 }
 
-real	0m20.333s
-user	0m1.395s
-sys	0m0.150s
+real	0m0.747s
+user	0m1.449s
+sys	0m0.146s
 run query 19 without optimizer
 {
   "error": false,
@@ -2530,9 +2530,9 @@ run query 19 without optimizer
   "results": []
 }
 
-real	0m20.739s
-user	0m1.377s
-sys	0m0.165s
+real	0m0.723s
+user	0m1.442s
+sys	0m0.139s
 run query 20 without optimizer
 {
   "error": false,
@@ -2545,9 +2545,9 @@ run query 20 without optimizer
   "results": []
 }
 
-real	0m20.287s
-user	0m1.423s
-sys	0m0.151s
+real	0m0.731s
+user	0m1.417s
+sys	0m0.156s
 run query 21 without optimizer
 {
   "error": false,
@@ -2560,9 +2560,9 @@ run query 21 without optimizer
   "results": []
 }
 
-real	0m20.154s
-user	0m1.422s
-sys	0m0.165s
+real	0m0.676s
+user	0m1.393s
+sys	0m0.132s
 run query 22 without optimizer
 {
   "error": false,
@@ -2575,9 +2575,9 @@ run query 22 without optimizer
   "results": []
 }
 
-real	0m20.278s
-user	0m1.423s
-sys	0m0.149s
+real	0m0.738s
+user	0m1.447s
+sys	0m0.134s
 run query 23 without optimizer
 {
   "error": false,
@@ -2590,9 +2590,9 @@ run query 23 without optimizer
   "results": []
 }
 
-real	0m20.104s
-user	0m1.433s
-sys	0m0.170s
+real	0m0.715s
+user	0m1.422s
+sys	0m0.138s
 run query 24 without optimizer
 {
   "error": false,
@@ -2605,9 +2605,9 @@ run query 24 without optimizer
   "results": []
 }
 
-real	0m19.968s
-user	0m1.390s
-sys	0m0.180s
+real	0m0.711s
+user	0m1.398s
+sys	0m0.150s
 run query 25 without optimizer
 {
   "error": false,
@@ -2620,9 +2620,9 @@ run query 25 without optimizer
   "results": []
 }
 
-real	0m20.312s
-user	0m1.411s
-sys	0m0.171s
+real	0m0.689s
+user	0m1.393s
+sys	0m0.167s
 run query 26 without optimizer
 {
   "error": false,
@@ -2635,9 +2635,9 @@ run query 26 without optimizer
   "results": []
 }
 
-real	0m20.005s
-user	0m1.431s
-sys	0m0.141s
+real	0m0.726s
+user	0m1.410s
+sys	0m0.163s
 run query 27 without optimizer
 {
   "error": false,
@@ -2650,9 +2650,9 @@ run query 27 without optimizer
   "results": []
 }
 
-real	0m20.044s
-user	0m1.444s
-sys	0m0.153s
+real	0m0.693s
+user	0m1.427s
+sys	0m0.155s
 run query 28 without optimizer
 {
   "error": false,
@@ -2665,9 +2665,9 @@ run query 28 without optimizer
   "results": []
 }
 
-real	0m19.810s
-user	0m1.418s
-sys	0m0.148s
+real	0m0.725s
+user	0m1.408s
+sys	0m0.153s
 run query 29 without optimizer
 {
   "error": false,
@@ -2680,9 +2680,9 @@ run query 29 without optimizer
   "results": []
 }
 
-real	0m20.058s
-user	0m1.400s
-sys	0m0.162s
+real	0m0.696s
+user	0m1.386s
+sys	0m0.147s
 run query 30 without optimizer
 {
   "error": false,
@@ -2695,9 +2695,9 @@ run query 30 without optimizer
   "results": []
 }
 
-real	0m20.234s
-user	0m1.413s
-sys	0m0.174s
+real	0m0.720s
+user	0m1.389s
+sys	0m0.157s
 run query 31 without optimizer
 {
   "error": false,
@@ -2710,8 +2710,8 @@ run query 31 without optimizer
   "results": []
 }
 
-real	0m20.554s
-user	0m1.404s
+real	0m0.690s
+user	0m1.405s
 sys	0m0.165s
 run query 32 without optimizer
 {
@@ -2725,9 +2725,9 @@ run query 32 without optimizer
   "results": []
 }
 
-real	0m19.691s
-user	0m1.401s
-sys	0m0.147s
+real	0m0.788s
+user	0m1.503s
+sys	0m0.152s
 run query 33 without optimizer
 {
   "error": false,
@@ -2740,9 +2740,9 @@ run query 33 without optimizer
   "results": []
 }
 
-real	0m19.682s
-user	0m1.370s
-sys	0m0.163s
+real	0m0.757s
+user	0m1.458s
+sys	0m0.147s
 run query 34 without optimizer
 {
   "error": false,
@@ -2755,9 +2755,9 @@ run query 34 without optimizer
   "results": []
 }
 
-real	0m19.783s
-user	0m1.388s
-sys	0m0.152s
+real	0m0.677s
+user	0m1.390s
+sys	0m0.158s
 run query 35 without optimizer
 {
   "error": false,
@@ -2770,9 +2770,9 @@ run query 35 without optimizer
   "results": []
 }
 
-real	0m20.439s
-user	0m1.397s
-sys	0m0.169s
+real	0m0.744s
+user	0m1.467s
+sys	0m0.170s
 run query 36 without optimizer
 {
   "error": false,
@@ -2785,9 +2785,9 @@ run query 36 without optimizer
   "results": []
 }
 
-real	0m20.280s
-user	0m1.388s
-sys	0m0.165s
+real	0m0.687s
+user	0m1.431s
+sys	0m0.154s
 run query 37 without optimizer
 {
   "error": false,
@@ -2800,9 +2800,9 @@ run query 37 without optimizer
   "results": []
 }
 
-real	0m20.558s
-user	0m1.408s
-sys	0m0.157s
+real	0m0.695s
+user	0m1.425s
+sys	0m0.149s
 run query 38 without optimizer
 {
   "error": false,
@@ -2815,8 +2815,8 @@ run query 38 without optimizer
   "results": []
 }
 
-real	0m21.320s
-user	0m1.367s
+real	0m0.752s
+user	0m1.505s
 sys	0m0.164s
 run query 39 without optimizer
 {
@@ -2830,9 +2830,9 @@ run query 39 without optimizer
   "results": []
 }
 
-real	0m20.126s
-user	0m1.380s
-sys	0m0.178s
+real	0m0.699s
+user	0m1.455s
+sys	0m0.136s
 run query 40 without optimizer
 {
   "error": false,
@@ -2845,9 +2845,9 @@ run query 40 without optimizer
   "results": []
 }
 
-real	0m20.361s
-user	0m1.384s
-sys	0m0.152s
+real	0m0.679s
+user	0m1.392s
+sys	0m0.157s
 run query 41 without optimizer
 {
   "error": false,
@@ -2860,9 +2860,9 @@ run query 41 without optimizer
   "results": []
 }
 
-real	0m20.522s
-user	0m1.437s
-sys	0m0.154s
+real	0m0.693s
+user	0m1.481s
+sys	0m0.176s
 run query 42 without optimizer
 {
   "error": false,
@@ -2875,9 +2875,9 @@ run query 42 without optimizer
   "results": []
 }
 
-real	0m20.351s
-user	0m1.414s
-sys	0m0.157s
+real	0m0.725s
+user	0m1.434s
+sys	0m0.185s
 run query 43 without optimizer
 {
   "error": false,
@@ -2890,9 +2890,9 @@ run query 43 without optimizer
   "results": []
 }
 
-real	0m21.648s
-user	0m1.398s
-sys	0m0.155s
+real	0m0.705s
+user	0m1.445s
+sys	0m0.143s
 run query 44 without optimizer
 {
   "error": false,
@@ -2905,9 +2905,9 @@ run query 44 without optimizer
   "results": []
 }
 
-real	0m20.237s
-user	0m1.468s
-sys	0m0.151s
+real	0m0.685s
+user	0m1.447s
+sys	0m0.168s
 run query 45 without optimizer
 {
   "error": false,
@@ -2920,9 +2920,9 @@ run query 45 without optimizer
   "results": []
 }
 
-real	0m20.676s
-user	0m1.407s
-sys	0m0.160s
+real	0m0.690s
+user	0m1.437s
+sys	0m0.146s
 run query 46 without optimizer
 {
   "error": false,
@@ -2935,9 +2935,9 @@ run query 46 without optimizer
   "results": []
 }
 
-real	0m20.229s
-user	0m1.426s
-sys	0m0.142s
+real	0m0.702s
+user	0m1.448s
+sys	0m0.138s
 run query 47 without optimizer
 {
   "error": false,
@@ -2950,9 +2950,9 @@ run query 47 without optimizer
   "results": []
 }
 
-real	0m20.003s
-user	0m1.424s
-sys	0m0.142s
+real	0m0.759s
+user	0m1.481s
+sys	0m0.144s
 run query 48 without optimizer
 {
   "error": false,
@@ -2965,9 +2965,9 @@ run query 48 without optimizer
   "results": []
 }
 
-real	0m20.527s
-user	0m1.407s
-sys	0m0.159s
+real	0m0.685s
+user	0m1.380s
+sys	0m0.154s
 run query 49 without optimizer
 {
   "error": false,
@@ -2980,9 +2980,9 @@ run query 49 without optimizer
   "results": []
 }
 
-real	0m20.508s
-user	0m1.468s
-sys	0m0.176s
+real	0m0.697s
+user	0m1.387s
+sys	0m0.172s
 run query 50 without optimizer
 {
   "error": false,
@@ -2995,6 +2995,1506 @@ run query 50 without optimizer
   "results": []
 }
 
-real	0m20.271s
-user	0m1.390s
-sys	0m0.186s
+real	0m0.742s
+user	0m1.465s
+sys	0m0.141s
+run query 1 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.689s
+user	0m1.428s
+sys	0m0.138s
+run query 2 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.689s
+user	0m1.391s
+sys	0m0.160s
+run query 3 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.688s
+user	0m1.395s
+sys	0m0.192s
+run query 4 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.679s
+user	0m1.389s
+sys	0m0.165s
+run query 5 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.689s
+user	0m1.404s
+sys	0m0.155s
+run query 6 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.689s
+user	0m1.413s
+sys	0m0.148s
+run query 7 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.678s
+user	0m1.422s
+sys	0m0.160s
+run query 8 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.688s
+user	0m1.393s
+sys	0m0.164s
+run query 9 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.688s
+user	0m1.427s
+sys	0m0.169s
+run query 10 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.720s
+user	0m1.412s
+sys	0m0.151s
+run query 11 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.697s
+user	0m1.435s
+sys	0m0.137s
+run query 12 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.677s
+user	0m1.401s
+sys	0m0.146s
+run query 13 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.698s
+user	0m1.474s
+sys	0m0.125s
+run query 14 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.690s
+user	0m1.396s
+sys	0m0.153s
+run query 15 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.743s
+user	0m1.464s
+sys	0m0.147s
+run query 16 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.683s
+user	0m1.383s
+sys	0m0.152s
+run query 17 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.672s
+user	0m1.358s
+sys	0m0.149s
+run query 18 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.671s
+user	0m1.382s
+sys	0m0.144s
+run query 19 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.698s
+user	0m1.392s
+sys	0m0.160s
+run query 20 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.693s
+user	0m1.406s
+sys	0m0.143s
+run query 21 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.714s
+user	0m1.462s
+sys	0m0.149s
+run query 22 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.716s
+user	0m1.380s
+sys	0m0.153s
+run query 23 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.683s
+user	0m1.359s
+sys	0m0.155s
+run query 24 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.726s
+user	0m1.413s
+sys	0m0.148s
+run query 25 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.723s
+user	0m1.418s
+sys	0m0.142s
+run query 26 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.670s
+user	0m1.409s
+sys	0m0.135s
+run query 27 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.723s
+user	0m1.412s
+sys	0m0.158s
+run query 28 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.708s
+user	0m1.419s
+sys	0m0.166s
+run query 29 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.729s
+user	0m1.400s
+sys	0m0.140s
+run query 30 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.696s
+user	0m1.399s
+sys	0m0.149s
+run query 31 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.721s
+user	0m1.421s
+sys	0m0.132s
+run query 32 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.691s
+user	0m1.388s
+sys	0m0.162s
+run query 33 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.730s
+user	0m1.402s
+sys	0m0.154s
+run query 34 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.675s
+user	0m1.389s
+sys	0m0.157s
+run query 35 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.728s
+user	0m1.418s
+sys	0m0.164s
+run query 36 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.738s
+user	0m1.475s
+sys	0m0.142s
+run query 37 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.701s
+user	0m1.433s
+sys	0m0.144s
+run query 38 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.732s
+user	0m1.420s
+sys	0m0.151s
+run query 39 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.693s
+user	0m1.424s
+sys	0m0.142s
+run query 40 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.733s
+user	0m1.424s
+sys	0m0.160s
+run query 41 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.690s
+user	0m1.434s
+sys	0m0.148s
+run query 42 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.733s
+user	0m1.426s
+sys	0m0.174s
+run query 43 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.711s
+user	0m1.414s
+sys	0m0.154s
+run query 44 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.738s
+user	0m1.431s
+sys	0m0.152s
+run query 45 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.699s
+user	0m1.454s
+sys	0m0.147s
+run query 46 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.747s
+user	0m1.441s
+sys	0m0.154s
+run query 47 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.709s
+user	0m1.414s
+sys	0m0.167s
+run query 48 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.734s
+user	0m1.415s
+sys	0m0.157s
+run query 49 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.726s
+user	0m1.451s
+sys	0m0.138s
+run query 50 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.699s
+user	0m1.406s
+sys	0m0.171s
+run query 1 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.703s
+user	0m1.411s
+sys	0m0.165s
+run query 2 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.701s
+user	0m1.463s
+sys	0m0.142s
+run query 3 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.699s
+user	0m1.470s
+sys	0m0.156s
+run query 4 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.702s
+user	0m1.376s
+sys	0m0.157s
+run query 5 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.676s
+user	0m1.384s
+sys	0m0.167s
+run query 6 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.718s
+user	0m1.398s
+sys	0m0.153s
+run query 7 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.681s
+user	0m1.416s
+sys	0m0.143s
+run query 8 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.680s
+user	0m1.406s
+sys	0m0.159s
+run query 9 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.692s
+user	0m1.429s
+sys	0m0.136s
+run query 10 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.689s
+user	0m1.362s
+sys	0m0.154s
+run query 11 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.726s
+user	0m1.380s
+sys	0m0.159s
+run query 12 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.691s
+user	0m1.382s
+sys	0m0.139s
+run query 13 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.726s
+user	0m1.380s
+sys	0m0.166s
+run query 14 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.685s
+user	0m1.365s
+sys	0m0.165s
+run query 15 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.718s
+user	0m1.405s
+sys	0m0.158s
+run query 16 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.717s
+user	0m1.392s
+sys	0m0.143s
+run query 17 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.724s
+user	0m1.409s
+sys	0m0.137s
+run query 18 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.703s
+user	0m1.406s
+sys	0m0.152s
+run query 19 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.692s
+user	0m1.402s
+sys	0m0.146s
+run query 20 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.715s
+user	0m1.408s
+sys	0m0.148s
+run query 21 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.707s
+user	0m1.437s
+sys	0m0.124s
+run query 22 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.725s
+user	0m1.386s
+sys	0m0.148s
+run query 23 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.684s
+user	0m1.391s
+sys	0m0.175s
+run query 24 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.707s
+user	0m1.437s
+sys	0m0.144s
+run query 25 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.699s
+user	0m1.413s
+sys	0m0.149s
+run query 26 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.748s
+user	0m1.456s
+sys	0m0.145s
+run query 27 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.673s
+user	0m1.402s
+sys	0m0.152s
+run query 28 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.667s
+user	0m1.373s
+sys	0m0.144s
+run query 29 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.691s
+user	0m1.381s
+sys	0m0.170s
+run query 30 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.697s
+user	0m1.424s
+sys	0m0.166s
+run query 31 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.718s
+user	0m1.479s
+sys	0m0.160s
+run query 32 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.689s
+user	0m1.466s
+sys	0m0.160s
+run query 33 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.696s
+user	0m1.409s
+sys	0m0.148s
+run query 34 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.692s
+user	0m1.399s
+sys	0m0.153s
+run query 35 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.671s
+user	0m1.393s
+sys	0m0.159s
+run query 36 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.691s
+user	0m1.381s
+sys	0m0.152s
+run query 37 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.699s
+user	0m1.411s
+sys	0m0.148s
+run query 38 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.721s
+user	0m1.429s
+sys	0m0.155s
+run query 39 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.709s
+user	0m1.429s
+sys	0m0.137s
+run query 40 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.722s
+user	0m1.467s
+sys	0m0.159s
+run query 41 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.707s
+user	0m1.436s
+sys	0m0.162s
+run query 42 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.700s
+user	0m1.425s
+sys	0m0.168s
+run query 43 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.713s
+user	0m1.425s
+sys	0m0.142s
+run query 44 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.706s
+user	0m1.380s
+sys	0m0.156s
+run query 45 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.799s
+user	0m1.525s
+sys	0m0.135s
+run query 46 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.688s
+user	0m1.397s
+sys	0m0.162s
+run query 47 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.698s
+user	0m1.406s
+sys	0m0.162s
+run query 48 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.684s
+user	0m1.380s
+sys	0m0.152s
+run query 49 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.698s
+user	0m1.374s
+sys	0m0.170s
+run query 50 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m0.669s
+user	0m1.369s
+sys	0m0.153s

@@ -10,15 +10,14 @@ result_file=$cwd/RESULT
 touch $log_file
 touch $result_file
 
-gadmin config set RESTPP.Factory.DefaultQueryTimeoutSec 600
-gadmin config apply -y
-gadmin restart -y all
+# gadmin config set RESTPP.Factory.DefaultQueryTimeoutSec 600
+# gadmin config apply -y
+# gadmin restart -y all
 
 sleep 5
 
 for i in "${HOP_LIST[@]}"
 do
-    gsql drop query all
     # cd $cwd/"$i"-hop/
     echo "Install the $i-hop queries"
     for k in {1..50}
@@ -28,7 +27,7 @@ do
     gsql install query -force all
 
     echo "Compute cardinality and histogram"
-    python3 statistics.py -card -hist
+    python3 statistics.py -card -hist tee -a RESULT
     for j in {1..3}
     do  
         echo "Do $i-hop $j-iteration"
@@ -52,6 +51,6 @@ do
         done
         echo "Done $i-hop $j-iteration"
     done
+    gsql drop query all
     echo "$i query test DONE"
-    cd ..
 done

@@ -1498,3 +1498,1503 @@ run query 50 without optimizer
 real	0m21.309s
 user	0m1.463s
 sys	0m0.147s
+run query 1 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.525s
+user	0m1.461s
+sys	0m0.152s
+run query 2 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.067s
+user	0m1.490s
+sys	0m0.156s
+run query 3 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m23.432s
+user	0m1.492s
+sys	0m0.184s
+run query 4 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m23.218s
+user	0m1.506s
+sys	0m0.190s
+run query 5 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m23.203s
+user	0m1.668s
+sys	0m0.178s
+run query 6 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.509s
+user	0m1.582s
+sys	0m0.183s
+run query 7 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.050s
+user	0m1.384s
+sys	0m0.214s
+run query 8 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.969s
+user	0m1.599s
+sys	0m0.185s
+run query 9 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m22.071s
+user	0m1.648s
+sys	0m0.207s
+run query 10 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.452s
+user	0m1.589s
+sys	0m0.168s
+run query 11 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.363s
+user	0m1.549s
+sys	0m0.161s
+run query 12 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.569s
+user	0m1.439s
+sys	0m0.159s
+run query 13 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.799s
+user	0m1.388s
+sys	0m0.162s
+run query 14 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.186s
+user	0m1.423s
+sys	0m0.141s
+run query 15 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m19.824s
+user	0m1.389s
+sys	0m0.186s
+run query 16 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.847s
+user	0m1.427s
+sys	0m0.154s
+run query 17 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.112s
+user	0m1.422s
+sys	0m0.185s
+run query 18 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.824s
+user	0m1.418s
+sys	0m0.157s
+run query 19 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.783s
+user	0m1.406s
+sys	0m0.179s
+run query 20 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.335s
+user	0m1.440s
+sys	0m0.164s
+run query 21 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.662s
+user	0m1.482s
+sys	0m0.171s
+run query 22 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.327s
+user	0m1.407s
+sys	0m0.163s
+run query 23 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.650s
+user	0m1.426s
+sys	0m0.165s
+run query 24 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.117s
+user	0m1.391s
+sys	0m0.163s
+run query 25 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.978s
+user	0m1.432s
+sys	0m0.146s
+run query 26 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.382s
+user	0m1.388s
+sys	0m0.168s
+run query 27 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.665s
+user	0m1.441s
+sys	0m0.149s
+run query 28 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.302s
+user	0m1.507s
+sys	0m0.157s
+run query 29 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.071s
+user	0m1.444s
+sys	0m0.167s
+run query 30 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.107s
+user	0m1.404s
+sys	0m0.160s
+run query 31 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.655s
+user	0m1.474s
+sys	0m0.162s
+run query 32 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.624s
+user	0m1.456s
+sys	0m0.153s
+run query 33 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.210s
+user	0m1.430s
+sys	0m0.170s
+run query 34 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.542s
+user	0m1.464s
+sys	0m0.168s
+run query 35 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.533s
+user	0m1.440s
+sys	0m0.156s
+run query 36 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.112s
+user	0m1.386s
+sys	0m0.166s
+run query 37 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m19.925s
+user	0m1.443s
+sys	0m0.160s
+run query 38 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.412s
+user	0m1.452s
+sys	0m0.152s
+run query 39 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.145s
+user	0m1.408s
+sys	0m0.155s
+run query 40 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.842s
+user	0m1.409s
+sys	0m0.152s
+run query 41 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.364s
+user	0m1.414s
+sys	0m0.154s
+run query 42 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.510s
+user	0m1.447s
+sys	0m0.140s
+run query 43 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.775s
+user	0m1.441s
+sys	0m0.155s
+run query 44 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.017s
+user	0m1.457s
+sys	0m0.169s
+run query 45 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m19.822s
+user	0m1.433s
+sys	0m0.158s
+run query 46 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.788s
+user	0m1.435s
+sys	0m0.167s
+run query 47 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.361s
+user	0m1.434s
+sys	0m0.156s
+run query 48 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.800s
+user	0m1.443s
+sys	0m0.171s
+run query 49 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.655s
+user	0m1.401s
+sys	0m0.181s
+run query 50 with optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.961s
+user	0m1.408s
+sys	0m0.150s
+run query 1 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.319s
+user	0m1.434s
+sys	0m0.162s
+run query 2 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.077s
+user	0m1.560s
+sys	0m0.171s
+run query 3 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m19.985s
+user	0m1.398s
+sys	0m0.157s
+run query 4 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.394s
+user	0m1.428s
+sys	0m0.178s
+run query 5 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.180s
+user	0m1.413s
+sys	0m0.161s
+run query 6 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.059s
+user	0m1.450s
+sys	0m0.140s
+run query 7 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.460s
+user	0m1.453s
+sys	0m0.176s
+run query 8 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.315s
+user	0m1.409s
+sys	0m0.145s
+run query 9 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.199s
+user	0m1.410s
+sys	0m0.151s
+run query 10 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.187s
+user	0m1.389s
+sys	0m0.163s
+run query 11 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.791s
+user	0m1.426s
+sys	0m0.164s
+run query 12 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.631s
+user	0m1.448s
+sys	0m0.136s
+run query 13 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.084s
+user	0m1.420s
+sys	0m0.173s
+run query 14 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.036s
+user	0m1.388s
+sys	0m0.161s
+run query 15 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.234s
+user	0m1.394s
+sys	0m0.183s
+run query 16 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.266s
+user	0m1.403s
+sys	0m0.162s
+run query 17 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.503s
+user	0m1.411s
+sys	0m0.157s
+run query 18 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.414s
+user	0m1.380s
+sys	0m0.154s
+run query 19 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m19.732s
+user	0m1.395s
+sys	0m0.171s
+run query 20 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.125s
+user	0m1.372s
+sys	0m0.169s
+run query 21 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.435s
+user	0m1.425s
+sys	0m0.146s
+run query 22 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.017s
+user	0m1.422s
+sys	0m0.176s
+run query 23 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.937s
+user	0m1.440s
+sys	0m0.158s
+run query 24 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.542s
+user	0m1.443s
+sys	0m0.177s
+run query 25 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.526s
+user	0m1.426s
+sys	0m0.154s
+run query 26 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.864s
+user	0m1.438s
+sys	0m0.142s
+run query 27 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.133s
+user	0m1.395s
+sys	0m0.159s
+run query 28 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.004s
+user	0m1.387s
+sys	0m0.141s
+run query 29 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m19.994s
+user	0m1.419s
+sys	0m0.156s
+run query 30 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m19.737s
+user	0m1.405s
+sys	0m0.152s
+run query 31 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.456s
+user	0m1.383s
+sys	0m0.151s
+run query 32 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.552s
+user	0m1.494s
+sys	0m0.152s
+run query 33 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.879s
+user	0m1.426s
+sys	0m0.132s
+run query 34 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m19.911s
+user	0m1.403s
+sys	0m0.158s
+run query 35 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.663s
+user	0m1.429s
+sys	0m0.126s
+run query 36 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.648s
+user	0m1.432s
+sys	0m0.155s
+run query 37 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.873s
+user	0m1.413s
+sys	0m0.173s
+run query 38 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.245s
+user	0m1.434s
+sys	0m0.175s
+run query 39 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.488s
+user	0m1.420s
+sys	0m0.158s
+run query 40 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.083s
+user	0m1.445s
+sys	0m0.178s
+run query 41 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m19.838s
+user	0m1.419s
+sys	0m0.159s
+run query 42 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m21.273s
+user	0m1.419s
+sys	0m0.161s
+run query 43 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.712s
+user	0m1.431s
+sys	0m0.143s
+run query 44 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.139s
+user	0m1.475s
+sys	0m0.169s
+run query 45 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.065s
+user	0m1.414s
+sys	0m0.165s
+run query 46 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.194s
+user	0m1.391s
+sys	0m0.161s
+run query 47 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.543s
+user	0m1.449s
+sys	0m0.148s
+run query 48 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.055s
+user	0m1.405s
+sys	0m0.159s
+run query 49 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.129s
+user	0m1.439s
+sys	0m0.169s
+run query 50 without optimizer
+{
+  "error": false,
+  "message": "",
+  "version": {
+    "schema": 0,
+    "edition": "enterprise",
+    "api": "v2"
+  },
+  "results": []
+}
+
+real	0m20.346s
+user	0m1.457s
+sys	0m0.144s
