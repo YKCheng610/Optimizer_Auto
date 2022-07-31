@@ -1,7 +1,7 @@
 gsql drop query all
 # install queries
 echo "Install the 4-hop queries"
-for i in {1..50}
+for i in {1..10}
 do
     gsql -g ldbc_snb test$i.gsql
 done
@@ -12,11 +12,26 @@ echo "Compute cardinality and histogram"
 python3 ../statistics.py -card -hist
 
 echo "Run the 4-hop queries with optimizer"
-for i in {1..50}
+for i in {1..10}
 do
     echo "run query $i with optimizer" |& tee -a 4hop_query.txt 
-    (time gsql -g ldbc_snb "set cost_opt = true run query test$i()") |& tee -a 4hop_query.txt
+    # (time gsql -g ldbc_snb "set cost_opt = true run query test$i()") |& tee -a 4hop_query.txt
+    (time gsql -g ldbc_snb "set cost_opt = false run query test$i()") |& tee -a 4hop_query.txt
 done
+
+exit 0
+gsql drop query all
+# install queries
+echo "Install the 4-hop queries"
+for i in {1..10}
+do
+    gsql -g ldbc_snb test$i.gsql
+done
+
+gsql install query -force all
+
+echo "Compute cardinality and histogram"
+python3 ../statistics.py -card -hist
 
 echo "Run the 4-hop queries without optimizer"
 for i in {1..50}

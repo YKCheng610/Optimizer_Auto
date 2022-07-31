@@ -10,9 +10,9 @@ run query 1 with optimizer
   "results": []
 }
 
-real	0m0.687s
-user	0m1.417s
-sys	0m0.133s
+real	0m0.682s
+user	0m1.463s
+sys	0m0.168s
 run query 2 with optimizer
 {
   "error": false,
@@ -25,9 +25,9 @@ run query 2 with optimizer
   "results": []
 }
 
-real	0m0.691s
-user	0m1.416s
-sys	0m0.150s
+real	0m0.667s
+user	0m1.418s
+sys	0m0.176s
 run query 3 with optimizer
 {
   "error": false,
@@ -40,9 +40,9 @@ run query 3 with optimizer
   "results": []
 }
 
-real	0m0.684s
-user	0m1.415s
-sys	0m0.141s
+real	0m0.683s
+user	0m1.410s
+sys	0m0.148s
 run query 4 with optimizer
 {
   "error": false,
@@ -55,9 +55,9 @@ run query 4 with optimizer
   "results": []
 }
 
-real	0m0.680s
-user	0m1.383s
-sys	0m0.163s
+real	0m0.705s
+user	0m1.452s
+sys	0m0.166s
 run query 5 with optimizer
 {
   "error": false,
@@ -70,9 +70,9 @@ run query 5 with optimizer
   "results": []
 }
 
-real	0m0.689s
-user	0m1.393s
-sys	0m0.150s
+real	0m0.682s
+user	0m1.440s
+sys	0m0.172s
 run query 6 with optimizer
 {
   "error": false,
@@ -85,9 +85,9 @@ run query 6 with optimizer
   "results": []
 }
 
-real	0m0.695s
-user	0m1.376s
-sys	0m0.156s
+real	0m0.678s
+user	0m1.469s
+sys	0m0.147s
 run query 7 with optimizer
 {
   "error": false,
@@ -100,9 +100,9 @@ run query 7 with optimizer
   "results": []
 }
 
-real	0m0.686s
-user	0m1.403s
-sys	0m0.146s
+real	0m0.690s
+user	0m1.439s
+sys	0m0.141s
 run query 8 with optimizer
 {
   "error": false,
@@ -115,9 +115,9 @@ run query 8 with optimizer
   "results": []
 }
 
-real	0m0.680s
-user	0m1.407s
-sys	0m0.149s
+real	0m0.677s
+user	0m1.437s
+sys	0m0.173s
 run query 9 with optimizer
 {
   "error": false,
@@ -130,9 +130,9 @@ run query 9 with optimizer
   "results": []
 }
 
-real	0m0.691s
-user	0m1.415s
-sys	0m0.151s
+real	0m0.684s
+user	0m1.469s
+sys	0m0.159s
 run query 10 with optimizer
 {
   "error": false,
@@ -145,9 +145,9 @@ run query 10 with optimizer
   "results": []
 }
 
-real	0m0.677s
-user	0m1.387s
-sys	0m0.153s
+real	0m0.659s
+user	0m1.440s
+sys	0m0.158s
 run query 11 with optimizer
 {
   "error": false,
@@ -160,9 +160,9 @@ run query 11 with optimizer
   "results": []
 }
 
-real	0m0.708s
-user	0m1.415s
-sys	0m0.154s
+real	0m0.691s
+user	0m1.445s
+sys	0m0.182s
 run query 12 with optimizer
 {
   "error": false,
@@ -175,9 +175,9 @@ run query 12 with optimizer
   "results": []
 }
 
-real	0m0.703s
-user	0m1.419s
-sys	0m0.155s
+real	0m0.712s
+user	0m1.450s
+sys	0m0.167s
 run query 13 with optimizer
 {
   "error": false,
@@ -190,9 +190,9 @@ run query 13 with optimizer
   "results": []
 }
 
-real	0m0.720s
-user	0m1.422s
-sys	0m0.163s
+real	0m0.652s
+user	0m1.376s
+sys	0m0.177s
 run query 14 with optimizer
 {
   "error": false,
@@ -205,9 +205,9 @@ run query 14 with optimizer
   "results": []
 }
 
-real	0m0.680s
-user	0m1.414s
-sys	0m0.118s
+real	0m0.652s
+user	0m1.427s
+sys	0m0.154s
 run query 15 with optimizer
 {
   "error": false,
@@ -220,9 +220,9 @@ run query 15 with optimizer
   "results": []
 }
 
-real	0m0.687s
-user	0m1.403s
-sys	0m0.174s
+real	0m0.674s
+user	0m1.422s
+sys	0m0.153s
 run query 16 with optimizer
 {
   "error": false,
@@ -235,9 +235,9 @@ run query 16 with optimizer
   "results": []
 }
 
-real	0m0.705s
-user	0m1.456s
-sys	0m0.135s
+real	0m0.685s
+user	0m1.442s
+sys	0m0.156s
 run query 17 with optimizer
 {
   "error": false,
@@ -250,9 +250,9 @@ run query 17 with optimizer
   "results": []
 }
 
-real	0m0.701s
-user	0m1.423s
-sys	0m0.151s
+real	0m0.683s
+user	0m1.451s
+sys	0m0.141s
 run query 18 with optimizer
 {
   "error": false,
@@ -265,9 +265,9 @@ run query 18 with optimizer
   "results": []
 }
 
-real	0m0.687s
-user	0m1.395s
-sys	0m0.149s
+real	0m0.680s
+user	0m1.426s
+sys	0m0.143s
 run query 19 with optimizer
 {
   "error": false,
@@ -280,9 +280,9 @@ run query 19 with optimizer
   "results": []
 }
 
-real	0m0.712s
-user	0m1.430s
-sys	0m0.163s
+real	0m0.694s
+user	0m1.447s
+sys	0m0.159s
 run query 20 with optimizer
 {
   "error": false,
@@ -295,9 +295,9 @@ run query 20 with optimizer
   "results": []
 }
 
-real	0m0.684s
-user	0m1.379s
-sys	0m0.159s
+real	0m0.693s
+user	0m1.446s
+sys	0m0.160s
 run query 21 with optimizer
 {
   "error": false,
@@ -310,9 +310,9 @@ run query 21 with optimizer
   "results": []
 }
 
-real	0m0.682s
-user	0m1.368s
-sys	0m0.166s
+real	0m0.686s
+user	0m1.435s
+sys	0m0.157s
 run query 22 with optimizer
 {
   "error": false,
@@ -325,9 +325,9 @@ run query 22 with optimizer
   "results": []
 }
 
-real	0m0.702s
-user	0m1.389s
-sys	0m0.129s
+real	0m0.707s
+user	0m1.481s
+sys	0m0.195s
 run query 23 with optimizer
 {
   "error": false,
@@ -340,9 +340,9 @@ run query 23 with optimizer
   "results": []
 }
 
-real	0m0.684s
-user	0m1.379s
-sys	0m0.155s
+real	0m0.703s
+user	0m1.511s
+sys	0m0.165s
 run query 24 with optimizer
 {
   "error": false,
@@ -355,9 +355,9 @@ run query 24 with optimizer
   "results": []
 }
 
-real	0m0.709s
-user	0m1.394s
-sys	0m0.134s
+real	0m0.676s
+user	0m1.451s
+sys	0m0.136s
 run query 25 with optimizer
 {
   "error": false,
@@ -370,9 +370,9 @@ run query 25 with optimizer
   "results": []
 }
 
-real	0m0.711s
-user	0m1.432s
-sys	0m0.141s
+real	0m0.698s
+user	0m1.488s
+sys	0m0.172s
 run query 26 with optimizer
 {
   "error": false,
@@ -385,9 +385,9 @@ run query 26 with optimizer
   "results": []
 }
 
-real	0m0.697s
-user	0m1.432s
-sys	0m0.138s
+real	0m0.678s
+user	0m1.481s
+sys	0m0.169s
 run query 27 with optimizer
 {
   "error": false,
@@ -400,9 +400,9 @@ run query 27 with optimizer
   "results": []
 }
 
-real	0m0.712s
-user	0m1.397s
-sys	0m0.155s
+real	0m0.701s
+user	0m1.448s
+sys	0m0.199s
 run query 28 with optimizer
 {
   "error": false,
@@ -415,9 +415,9 @@ run query 28 with optimizer
   "results": []
 }
 
-real	0m0.682s
-user	0m1.401s
-sys	0m0.154s
+real	0m0.685s
+user	0m1.448s
+sys	0m0.141s
 run query 29 with optimizer
 {
   "error": false,
@@ -430,9 +430,9 @@ run query 29 with optimizer
   "results": []
 }
 
-real	0m0.716s
-user	0m1.367s
-sys	0m0.166s
+real	0m0.689s
+user	0m1.418s
+sys	0m0.176s
 run query 30 with optimizer
 {
   "error": false,
@@ -445,9 +445,9 @@ run query 30 with optimizer
   "results": []
 }
 
-real	0m0.677s
-user	0m1.363s
-sys	0m0.169s
+real	0m0.686s
+user	0m1.458s
+sys	0m0.154s
 run query 31 with optimizer
 {
   "error": false,
@@ -460,9 +460,9 @@ run query 31 with optimizer
   "results": []
 }
 
-real	0m0.700s
-user	0m1.409s
-sys	0m0.127s
+real	0m0.690s
+user	0m1.467s
+sys	0m0.146s
 run query 32 with optimizer
 {
   "error": false,
@@ -475,9 +475,9 @@ run query 32 with optimizer
   "results": []
 }
 
-real	0m0.677s
-user	0m1.395s
-sys	0m0.142s
+real	0m0.680s
+user	0m1.427s
+sys	0m0.175s
 run query 33 with optimizer
 {
   "error": false,
@@ -490,9 +490,9 @@ run query 33 with optimizer
   "results": []
 }
 
-real	0m0.711s
-user	0m1.418s
-sys	0m0.135s
+real	0m0.736s
+user	0m1.498s
+sys	0m0.130s
 run query 34 with optimizer
 {
   "error": false,
@@ -505,9 +505,9 @@ run query 34 with optimizer
   "results": []
 }
 
-real	0m0.700s
-user	0m1.391s
-sys	0m0.147s
+real	0m0.674s
+user	0m1.418s
+sys	0m0.151s
 run query 35 with optimizer
 {
   "error": false,
@@ -520,9 +520,9 @@ run query 35 with optimizer
   "results": []
 }
 
-real	0m0.714s
-user	0m1.386s
-sys	0m0.154s
+real	0m0.681s
+user	0m1.435s
+sys	0m0.146s
 run query 36 with optimizer
 {
   "error": false,
@@ -535,9 +535,9 @@ run query 36 with optimizer
   "results": []
 }
 
-real	0m0.695s
-user	0m1.412s
-sys	0m0.158s
+real	0m0.670s
+user	0m1.470s
+sys	0m0.171s
 run query 37 with optimizer
 {
   "error": false,
@@ -550,9 +550,9 @@ run query 37 with optimizer
   "results": []
 }
 
-real	0m0.709s
-user	0m1.375s
-sys	0m0.163s
+real	0m0.681s
+user	0m1.435s
+sys	0m0.137s
 run query 38 with optimizer
 {
   "error": false,
@@ -565,9 +565,9 @@ run query 38 with optimizer
   "results": []
 }
 
-real	0m0.707s
-user	0m1.399s
-sys	0m0.161s
+real	0m0.686s
+user	0m1.436s
+sys	0m0.150s
 run query 39 with optimizer
 {
   "error": false,
@@ -580,9 +580,9 @@ run query 39 with optimizer
   "results": []
 }
 
-real	0m0.691s
-user	0m1.391s
-sys	0m0.155s
+real	0m0.682s
+user	0m1.424s
+sys	0m0.156s
 run query 40 with optimizer
 {
   "error": false,
@@ -595,9 +595,9 @@ run query 40 with optimizer
   "results": []
 }
 
-real	0m0.686s
-user	0m1.419s
-sys	0m0.151s
+real	0m0.661s
+user	0m1.411s
+sys	0m0.133s
 run query 41 with optimizer
 {
   "error": false,
@@ -610,9 +610,9 @@ run query 41 with optimizer
   "results": []
 }
 
-real	0m0.702s
-user	0m1.424s
-sys	0m0.159s
+real	0m0.681s
+user	0m1.445s
+sys	0m0.172s
 run query 42 with optimizer
 {
   "error": false,
@@ -625,9 +625,9 @@ run query 42 with optimizer
   "results": []
 }
 
-real	0m0.682s
-user	0m1.423s
-sys	0m0.161s
+real	0m0.677s
+user	0m1.434s
+sys	0m0.149s
 run query 43 with optimizer
 {
   "error": false,
@@ -640,9 +640,9 @@ run query 43 with optimizer
   "results": []
 }
 
-real	0m0.688s
-user	0m1.384s
-sys	0m0.160s
+real	0m0.686s
+user	0m1.409s
+sys	0m0.174s
 run query 44 with optimizer
 {
   "error": false,
@@ -655,9 +655,9 @@ run query 44 with optimizer
   "results": []
 }
 
-real	0m0.689s
-user	0m1.376s
-sys	0m0.167s
+real	0m0.692s
+user	0m1.438s
+sys	0m0.169s
 run query 45 with optimizer
 {
   "error": false,
@@ -670,9 +670,9 @@ run query 45 with optimizer
   "results": []
 }
 
-real	0m0.712s
-user	0m1.376s
-sys	0m0.161s
+real	0m0.672s
+user	0m1.456s
+sys	0m0.147s
 run query 46 with optimizer
 {
   "error": false,
@@ -685,9 +685,9 @@ run query 46 with optimizer
   "results": []
 }
 
-real	0m0.703s
-user	0m1.383s
-sys	0m0.169s
+real	0m0.686s
+user	0m1.472s
+sys	0m0.129s
 run query 47 with optimizer
 {
   "error": false,
@@ -700,9 +700,9 @@ run query 47 with optimizer
   "results": []
 }
 
-real	0m0.714s
-user	0m1.391s
-sys	0m0.148s
+real	0m0.682s
+user	0m1.439s
+sys	0m0.162s
 run query 48 with optimizer
 {
   "error": false,
@@ -715,9 +715,9 @@ run query 48 with optimizer
   "results": []
 }
 
-real	0m0.694s
-user	0m1.382s
-sys	0m0.151s
+real	0m0.692s
+user	0m1.463s
+sys	0m0.162s
 run query 49 with optimizer
 {
   "error": false,
@@ -730,9 +730,9 @@ run query 49 with optimizer
   "results": []
 }
 
-real	0m0.713s
-user	0m1.425s
-sys	0m0.161s
+real	0m0.672s
+user	0m1.420s
+sys	0m0.156s
 run query 50 with optimizer
 {
   "error": false,
@@ -745,9 +745,9 @@ run query 50 with optimizer
   "results": []
 }
 
-real	0m0.695s
-user	0m1.389s
-sys	0m0.156s
+real	0m0.684s
+user	0m1.405s
+sys	0m0.166s
 run query 1 without optimizer
 {
   "error": false,
@@ -760,9 +760,9 @@ run query 1 without optimizer
   "results": []
 }
 
-real	0m0.704s
-user	0m1.419s
-sys	0m0.151s
+real	0m0.703s
+user	0m1.458s
+sys	0m0.176s
 run query 2 without optimizer
 {
   "error": false,
@@ -775,9 +775,9 @@ run query 2 without optimizer
   "results": []
 }
 
-real	0m0.689s
-user	0m1.411s
-sys	0m0.132s
+real	0m0.692s
+user	0m1.419s
+sys	0m0.177s
 run query 3 without optimizer
 {
   "error": false,
@@ -790,9 +790,9 @@ run query 3 without optimizer
   "results": []
 }
 
-real	0m0.740s
-user	0m1.426s
-sys	0m0.158s
+real	0m0.686s
+user	0m1.448s
+sys	0m0.162s
 run query 4 without optimizer
 {
   "error": false,
@@ -805,9 +805,9 @@ run query 4 without optimizer
   "results": []
 }
 
-real	0m0.708s
-user	0m1.372s
-sys	0m0.170s
+real	0m0.681s
+user	0m1.382s
+sys	0m0.164s
 run query 5 without optimizer
 {
   "error": false,
@@ -820,9 +820,9 @@ run query 5 without optimizer
   "results": []
 }
 
-real	0m0.711s
-user	0m1.442s
-sys	0m0.142s
+real	0m0.676s
+user	0m1.427s
+sys	0m0.151s
 run query 6 without optimizer
 {
   "error": false,
@@ -835,9 +835,9 @@ run query 6 without optimizer
   "results": []
 }
 
-real	0m0.675s
-user	0m1.384s
-sys	0m0.135s
+real	0m0.684s
+user	0m1.424s
+sys	0m0.173s
 run query 7 without optimizer
 {
   "error": false,
@@ -850,9 +850,9 @@ run query 7 without optimizer
   "results": []
 }
 
-real	0m0.690s
-user	0m1.407s
-sys	0m0.159s
+real	0m0.670s
+user	0m1.392s
+sys	0m0.170s
 run query 8 without optimizer
 {
   "error": false,
@@ -865,9 +865,9 @@ run query 8 without optimizer
   "results": []
 }
 
-real	0m0.677s
-user	0m1.386s
-sys	0m0.143s
+real	0m0.700s
+user	0m1.445s
+sys	0m0.156s
 run query 9 without optimizer
 {
   "error": false,
@@ -880,9 +880,9 @@ run query 9 without optimizer
   "results": []
 }
 
-real	0m0.691s
-user	0m1.398s
-sys	0m0.156s
+real	0m0.679s
+user	0m1.464s
+sys	0m0.157s
 run query 10 without optimizer
 {
   "error": false,
@@ -895,9 +895,9 @@ run query 10 without optimizer
   "results": []
 }
 
-real	0m0.676s
-user	0m1.350s
-sys	0m0.172s
+real	0m0.660s
+user	0m1.426s
+sys	0m0.159s
 run query 11 without optimizer
 {
   "error": false,
@@ -910,9 +910,9 @@ run query 11 without optimizer
   "results": []
 }
 
-real	0m0.695s
-user	0m1.377s
-sys	0m0.143s
+real	0m0.683s
+user	0m1.434s
+sys	0m0.159s
 run query 12 without optimizer
 {
   "error": false,
@@ -925,9 +925,9 @@ run query 12 without optimizer
   "results": []
 }
 
-real	0m0.715s
-user	0m1.358s
-sys	0m0.172s
+real	0m0.671s
+user	0m1.445s
+sys	0m0.166s
 run query 13 without optimizer
 {
   "error": false,
@@ -940,9 +940,9 @@ run query 13 without optimizer
   "results": []
 }
 
-real	0m0.704s
-user	0m1.413s
-sys	0m0.130s
+real	0m0.695s
+user	0m1.426s
+sys	0m0.165s
 run query 14 without optimizer
 {
   "error": false,
@@ -955,9 +955,9 @@ run query 14 without optimizer
   "results": []
 }
 
-real	0m0.680s
-user	0m1.380s
-sys	0m0.157s
+real	0m0.675s
+user	0m1.438s
+sys	0m0.178s
 run query 15 without optimizer
 {
   "error": false,
@@ -970,9 +970,9 @@ run query 15 without optimizer
   "results": []
 }
 
-real	0m0.709s
-user	0m1.397s
-sys	0m0.144s
+real	0m0.696s
+user	0m1.432s
+sys	0m0.162s
 run query 16 without optimizer
 {
   "error": false,
@@ -985,9 +985,9 @@ run query 16 without optimizer
   "results": []
 }
 
-real	0m0.703s
-user	0m1.393s
-sys	0m0.128s
+real	0m0.676s
+user	0m1.433s
+sys	0m0.155s
 run query 17 without optimizer
 {
   "error": false,
@@ -1000,9 +1000,9 @@ run query 17 without optimizer
   "results": []
 }
 
-real	0m0.739s
-user	0m1.417s
-sys	0m0.148s
+real	0m0.692s
+user	0m1.418s
+sys	0m0.176s
 run query 18 without optimizer
 {
   "error": false,
@@ -1015,9 +1015,9 @@ run query 18 without optimizer
   "results": []
 }
 
-real	0m0.718s
-user	0m1.383s
-sys	0m0.158s
+real	0m0.670s
+user	0m1.421s
+sys	0m0.167s
 run query 19 without optimizer
 {
   "error": false,
@@ -1030,9 +1030,9 @@ run query 19 without optimizer
   "results": []
 }
 
-real	0m0.695s
-user	0m1.383s
-sys	0m0.147s
+real	0m0.698s
+user	0m1.440s
+sys	0m0.152s
 run query 20 without optimizer
 {
   "error": false,
@@ -1045,9 +1045,9 @@ run query 20 without optimizer
   "results": []
 }
 
-real	0m0.706s
-user	0m1.390s
-sys	0m0.144s
+real	0m0.675s
+user	0m1.445s
+sys	0m0.149s
 run query 21 without optimizer
 {
   "error": false,
@@ -1060,9 +1060,9 @@ run query 21 without optimizer
   "results": []
 }
 
-real	0m0.709s
-user	0m1.398s
-sys	0m0.147s
+real	0m0.685s
+user	0m1.409s
+sys	0m0.168s
 run query 22 without optimizer
 {
   "error": false,
@@ -1075,9 +1075,9 @@ run query 22 without optimizer
   "results": []
 }
 
-real	0m0.673s
-user	0m1.445s
-sys	0m0.143s
+real	0m0.688s
+user	0m1.426s
+sys	0m0.165s
 run query 23 without optimizer
 {
   "error": false,
@@ -1090,9 +1090,9 @@ run query 23 without optimizer
   "results": []
 }
 
-real	0m0.690s
-user	0m1.384s
-sys	0m0.162s
+real	0m0.675s
+user	0m1.398s
+sys	0m0.144s
 run query 24 without optimizer
 {
   "error": false,
@@ -1105,9 +1105,9 @@ run query 24 without optimizer
   "results": []
 }
 
-real	0m0.703s
-user	0m1.388s
-sys	0m0.175s
+real	0m0.677s
+user	0m1.448s
+sys	0m0.157s
 run query 25 without optimizer
 {
   "error": false,
@@ -1120,9 +1120,9 @@ run query 25 without optimizer
   "results": []
 }
 
-real	0m0.702s
-user	0m1.387s
-sys	0m0.147s
+real	0m0.674s
+user	0m1.404s
+sys	0m0.196s
 run query 26 without optimizer
 {
   "error": false,
@@ -1135,9 +1135,9 @@ run query 26 without optimizer
   "results": []
 }
 
-real	0m0.679s
+real	0m0.680s
 user	0m1.383s
-sys	0m0.150s
+sys	0m0.165s
 run query 27 without optimizer
 {
   "error": false,
@@ -1150,9 +1150,9 @@ run query 27 without optimizer
   "results": []
 }
 
-real	0m0.684s
-user	0m1.384s
-sys	0m0.163s
+real	0m0.702s
+user	0m1.464s
+sys	0m0.144s
 run query 28 without optimizer
 {
   "error": false,
@@ -1165,9 +1165,9 @@ run query 28 without optimizer
   "results": []
 }
 
-real	0m0.688s
-user	0m1.387s
-sys	0m0.169s
+real	0m0.691s
+user	0m1.441s
+sys	0m0.142s
 run query 29 without optimizer
 {
   "error": false,
@@ -1180,9 +1180,9 @@ run query 29 without optimizer
   "results": []
 }
 
-real	0m0.679s
-user	0m1.389s
-sys	0m0.143s
+real	0m0.686s
+user	0m1.424s
+sys	0m0.164s
 run query 30 without optimizer
 {
   "error": false,
@@ -1195,9 +1195,9 @@ run query 30 without optimizer
   "results": []
 }
 
-real	0m0.699s
-user	0m1.442s
-sys	0m0.146s
+real	0m0.671s
+user	0m1.428s
+sys	0m0.167s
 run query 31 without optimizer
 {
   "error": false,
@@ -1210,9 +1210,9 @@ run query 31 without optimizer
   "results": []
 }
 
-real	0m0.719s
-user	0m1.404s
-sys	0m0.134s
+real	0m0.679s
+user	0m1.422s
+sys	0m0.157s
 run query 32 without optimizer
 {
   "error": false,
@@ -1225,9 +1225,9 @@ run query 32 without optimizer
   "results": []
 }
 
-real	0m0.692s
-user	0m1.406s
-sys	0m0.139s
+real	0m0.703s
+user	0m1.398s
+sys	0m0.169s
 run query 33 without optimizer
 {
   "error": false,
@@ -1240,9 +1240,9 @@ run query 33 without optimizer
   "results": []
 }
 
-real	0m0.695s
-user	0m1.410s
-sys	0m0.132s
+real	0m0.685s
+user	0m1.451s
+sys	0m0.137s
 run query 34 without optimizer
 {
   "error": false,
@@ -1255,9 +1255,9 @@ run query 34 without optimizer
   "results": []
 }
 
-real	0m0.710s
-user	0m1.413s
-sys	0m0.152s
+real	0m0.681s
+user	0m1.425s
+sys	0m0.172s
 run query 35 without optimizer
 {
   "error": false,
@@ -1270,9 +1270,9 @@ run query 35 without optimizer
   "results": []
 }
 
-real	0m0.702s
-user	0m1.404s
-sys	0m0.143s
+real	0m0.673s
+user	0m1.433s
+sys	0m0.152s
 run query 36 without optimizer
 {
   "error": false,
@@ -1285,9 +1285,9 @@ run query 36 without optimizer
   "results": []
 }
 
-real	0m0.698s
-user	0m1.387s
-sys	0m0.144s
+real	0m0.682s
+user	0m1.424s
+sys	0m0.165s
 run query 37 without optimizer
 {
   "error": false,
@@ -1300,9 +1300,9 @@ run query 37 without optimizer
   "results": []
 }
 
-real	0m0.676s
-user	0m1.370s
-sys	0m0.135s
+real	0m0.674s
+user	0m1.464s
+sys	0m0.146s
 run query 38 without optimizer
 {
   "error": false,
@@ -1315,9 +1315,9 @@ run query 38 without optimizer
   "results": []
 }
 
-real	0m0.683s
-user	0m1.392s
-sys	0m0.152s
+real	0m0.660s
+user	0m1.401s
+sys	0m0.165s
 run query 39 without optimizer
 {
   "error": false,
@@ -1330,9 +1330,9 @@ run query 39 without optimizer
   "results": []
 }
 
-real	0m0.695s
-user	0m1.395s
-sys	0m0.143s
+real	0m0.676s
+user	0m1.420s
+sys	0m0.155s
 run query 40 without optimizer
 {
   "error": false,
@@ -1345,9 +1345,9 @@ run query 40 without optimizer
   "results": []
 }
 
-real	0m0.696s
-user	0m1.395s
-sys	0m0.166s
+real	0m0.663s
+user	0m1.433s
+sys	0m0.153s
 run query 41 without optimizer
 {
   "error": false,
@@ -1360,9 +1360,9 @@ run query 41 without optimizer
   "results": []
 }
 
-real	0m0.675s
-user	0m1.423s
-sys	0m0.138s
+real	0m0.669s
+user	0m1.424s
+sys	0m0.151s
 run query 42 without optimizer
 {
   "error": false,
@@ -1375,9 +1375,9 @@ run query 42 without optimizer
   "results": []
 }
 
-real	0m0.684s
-user	0m1.398s
-sys	0m0.174s
+real	0m0.683s
+user	0m1.445s
+sys	0m0.146s
 run query 43 without optimizer
 {
   "error": false,
@@ -1390,9 +1390,9 @@ run query 43 without optimizer
   "results": []
 }
 
-real	0m0.708s
-user	0m1.390s
-sys	0m0.161s
+real	0m0.685s
+user	0m1.340s
+sys	0m0.188s
 run query 44 without optimizer
 {
   "error": false,
@@ -1405,9 +1405,9 @@ run query 44 without optimizer
   "results": []
 }
 
-real	0m0.685s
-user	0m1.414s
-sys	0m0.159s
+real	0m0.687s
+user	0m1.385s
+sys	0m0.166s
 run query 45 without optimizer
 {
   "error": false,
@@ -1420,9 +1420,9 @@ run query 45 without optimizer
   "results": []
 }
 
-real	0m0.707s
-user	0m1.422s
-sys	0m0.157s
+real	0m0.706s
+user	0m1.453s
+sys	0m0.169s
 run query 46 without optimizer
 {
   "error": false,
@@ -1435,9 +1435,9 @@ run query 46 without optimizer
   "results": []
 }
 
-real	0m0.693s
-user	0m1.392s
-sys	0m0.156s
+real	0m0.659s
+user	0m1.393s
+sys	0m0.161s
 run query 47 without optimizer
 {
   "error": false,
@@ -1450,9 +1450,9 @@ run query 47 without optimizer
   "results": []
 }
 
-real	0m0.715s
-user	0m1.410s
-sys	0m0.157s
+real	0m0.676s
+user	0m1.411s
+sys	0m0.175s
 run query 48 without optimizer
 {
   "error": false,
@@ -1465,9 +1465,9 @@ run query 48 without optimizer
   "results": []
 }
 
-real	0m0.720s
-user	0m1.380s
-sys	0m0.161s
+real	0m0.667s
+user	0m1.409s
+sys	0m0.154s
 run query 49 without optimizer
 {
   "error": false,
@@ -1480,9 +1480,9 @@ run query 49 without optimizer
   "results": []
 }
 
-real	0m0.707s
-user	0m1.423s
-sys	0m0.133s
+real	0m0.678s
+user	0m1.410s
+sys	0m0.191s
 run query 50 without optimizer
 {
   "error": false,
@@ -1495,6 +1495,6 @@ run query 50 without optimizer
   "results": []
 }
 
-real	0m0.713s
-user	0m1.416s
+real	0m0.665s
+user	0m1.432s
 sys	0m0.141s
